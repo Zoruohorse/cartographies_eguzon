@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "project_eguzon_marmagne",
+    "type": "project",
+    "name": "Ligne THT Éguzon–Marmagne",
+    "short_name": "Éguzon–Marmagne",
+    "description": "Création étudiée d’une liaison aérienne 400 kV à deux circuits entre Éguzon (Indre) et Marmagne (Cher), avec dépose partielle d’une liaison 225 kV existante.",
+    "roles": [
+      {
+        "label": "Projet central RTE"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001",
+      "evidence_0009",
+      "evidence_0003",
+      "evidence_0008",
+      "evidence_0012"
+    ]
+  },
+  {
+    "id": "actor_0001",
+    "type": "organization",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau public de transport d’électricité, maître d’ouvrage de la ligne aérienne Éguzon–Marmagne ; également responsable du raccordement du projet Google, qui reste une opération distincte.",
+    "roles": [
+      {
+        "label": "Maître d’ouvrage de la ligne"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001",
+      "evidence_0002",
+      "evidence_0013",
+      "evidence_0020",
+      "evidence_0022"
+    ]
+  },
+  {
+    "id": "actor_0002",
+    "type": "person",
+    "name": "Cyril Mounier",
+    "short_name": "Cyril Mounier",
+    "description": "Responsable du projet électrique Éguzon–Marmagne chez RTE, intervenant dans la concertation.",
+    "roles": [
+      {
+        "label": "Responsable de projet RTE"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0002",
+      "evidence_0013"
+    ]
+  },
+  {
+    "id": "actor_0003",
+    "type": "person",
+    "name": "Olivier Brisset",
+    "short_name": "Olivier Brisset",
+    "description": "Responsable de la concertation pour RTE lors de la présentation à la CNDP du 22 juillet 2026.",
+    "roles": [
+      {
+        "label": "Responsable de concertation RTE"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0002"
+    ]
+  },
+  {
+    "id": "actor_0004",
+    "type": "person",
+    "name": "Jean-Yves Lebrec",
+    "short_name": "Jean-Yves Lebrec",
+    "description": "Intervenant du cabinet CAMPARDOU comme assistant à maîtrise d’ouvrage lors de la séance CNDP sur la ligne.",
+    "roles": [
+      {
+        "label": "Assistance à maîtrise d’ouvrage"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0002"
+    ]
+  },
+  {
+    "id": "actor_0005",
+    "type": "organization",
+    "name": "Cabinet CAMPARDOU",
+    "short_name": "Cabinet CAMPARDOU",
+    "description": "Cabinet d’assistance à maîtrise d’ouvrage représenté par Jean-Yves Lebrec dans la présentation de RTE devant la CNDP.",
+    "roles": [
+      {
+        "label": "AMO"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0002"
+    ]
+  },
+  {
+    "id": "actor_0006",
+    "type": "organization",
+    "name": "Commission nationale du débat public (CNDP)",
+    "short_name": "CNDP",
+    "description": "Autorité indépendante ayant validé le dossier et les modalités de la concertation de la ligne du 28 septembre au 22 novembre 2026.",
+    "roles": [
+      {
+        "label": "Garant institutionnel de la procédure"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001",
+      "evidence_0002",
+      "evidence_0020",
+      "evidence_0054"
+    ]
+  },
+  {
+    "id": "actor_0007",
+    "type": "person",
+    "name": "Brigitte Chalopin",
+    "short_name": "Brigitte Chalopin",
+    "description": "Garante de la concertation préalable du projet de ligne RTE Éguzon–Marmagne, présente lors de la séance CNDP du 22 juillet 2026.",
+    "roles": [
+      {
+        "label": "Garante — ligne RTE"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0002"
+    ]
+  },
+  {
+    "id": "actor_0008",
+    "type": "person",
+    "name": "Jessica Raclot",
+    "short_name": "Jessica Raclot",
+    "description": "Garante de la concertation préalable du projet de ligne RTE Éguzon–Marmagne, présente lors de la séance CNDP du 22 juillet 2026.",
+    "roles": [
+      {
+        "label": "Garante — ligne RTE"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0002"
+    ]
+  },
+  {
+    "id": "actor_0009",
+    "type": "person",
+    "name": "Marc Papinutti",
+    "short_name": "Marc Papinutti",
+    "description": "Président de la CNDP, signataire de la décision du 22 juillet 2026 engageant la concertation sur la ligne.",
+    "roles": [
+      {
+        "label": "Président de la CNDP"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001"
+    ]
+  },
+  {
+    "id": "actor_0010",
+    "type": "organization",
+    "name": "Chambres d’agriculture concernées",
+    "short_name": "Chambres d’agriculture concernées",
+    "description": "Institutions agricoles consultées par RTE pour comparer les enjeux des fuseaux et organiser l’information des exploitants ; aucune position globale pour/contre la ligne n’est établie.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0004"
+    ]
+  },
+  {
+    "id": "actor_0011",
+    "type": "organization",
+    "name": "Commune de Chouday (36)",
+    "short_name": "Commune de Chouday (36)",
+    "description": "Commune traversée par l’ancienne liaison, exposée à une perte de fiscalité liée aux pylônes si le nouveau tracé s’en écarte.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0015",
+      "evidence_0053"
+    ]
+  },
+  {
+    "id": "actor_0012",
+    "type": "person",
+    "name": "Carole Branchereau",
+    "short_name": "Carole Branchereau",
+    "description": "Maire de Chouday ; demande le maintien de l’infrastructure électrique sur son couloir existant afin de préserver les revenus communaux et les milieux.",
+    "roles": [
+      {
+        "label": "Maire de Chouday"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0015"
+    ]
+  },
+  {
+    "id": "actor_0013",
+    "type": "organization",
+    "name": "Commune de Meunet-Planches (36)",
+    "short_name": "Commune de Meunet-Planches (36)",
+    "description": "Commune citée comme susceptible de perdre environ neuf pylônes et 30 000 € de fiscalité annuelle si le nouveau tracé s’écarte de l’ancien.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0016"
+    ]
+  },
+  {
+    "id": "actor_0014",
+    "type": "organization",
+    "name": "Commune de Saint-Août (36)",
+    "short_name": "Commune de Saint-Août (36)",
+    "description": "Commune citée comme susceptible de perdre environ 6 000 € par an de taxes sur les pylônes en cas de déplacement du couloir électrique.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0017"
+    ]
+  },
+  {
+    "id": "actor_0015",
+    "type": "organization",
+    "name": "Saint-Florent-sur-Cher (18)",
+    "short_name": "Saint-Florent-sur-Cher (18)",
+    "description": "Commune où RTE a présenté la liaison lors d’une réunion locale, dans un article partiellement accessible via l’Excel.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0018"
+    ]
+  },
+  {
+    "id": "actor_0016",
+    "type": "organization",
+    "name": "Neuvy-Saint-Sépulchre (36)",
+    "short_name": "Neuvy-Saint-Sépulchre (36)",
+    "description": "Territoire pouvant être concerné par une hypothèse de fuseau ; réunion publique annoncée pour le 4 novembre 2026.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0019"
+    ]
+  },
+  {
+    "id": "actor_0017",
+    "type": "organization",
+    "name": "Éguzon-Chantôme (36)",
+    "short_name": "Éguzon-Chantôme (36)",
+    "description": "Commune de l’Indre où se situe le poste électrique d’Éguzon, extrémité sud du projet de ligne.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001"
+    ]
+  },
+  {
+    "id": "actor_0018",
+    "type": "organization",
+    "name": "Marmagne (18)",
+    "short_name": "Marmagne (18)",
+    "description": "Commune du Cher où se situe le poste électrique de Marmagne, extrémité nord du projet.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001"
+    ]
+  },
+  {
+    "id": "actor_0019",
+    "type": "organization",
+    "name": "Châteauroux Métropole",
+    "short_name": "Châteauroux Métropole",
+    "description": "Agglomération soutenant le projet de campus Google à Ozans, distinct du projet de ligne nationale de RTE. La qualification de son soutien à la ligne elle-même n’est pas établie.",
+    "roles": [
+      {
+        "label": "Collectivité liée au projet Google"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0032",
+      "evidence_0050"
+    ]
+  },
+  {
+    "id": "actor_0020",
+    "type": "person",
+    "name": "Gil Avérous",
+    "short_name": "Gil Avérous",
+    "description": "Président de Châteauroux Métropole et maire de Châteauroux ; défend le projet de campus Google et juge indispensable le renforcement du réseau RTE.",
+    "roles": [
+      {
+        "label": "Président de Châteauroux Métropole"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0031",
+      "evidence_0029",
+      "evidence_0030",
+      "evidence_0032"
+    ]
+  },
+  {
+    "id": "actor_0021",
+    "type": "organization",
+    "name": "Google France",
+    "short_name": "Google France",
+    "description": "Porteur économique envisagé du campus de centres de données d’Ozans à Étrechet ; décision finale d’investissement non établie au 2 novembre 2026.",
+    "roles": [
+      {
+        "label": "Porteur potentiel du campus Ozans"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0021",
+      "evidence_0034",
+      "evidence_0024"
+    ]
+  },
+  {
+    "id": "actor_0022",
+    "type": "organization",
+    "name": "Tricolore Computing",
+    "short_name": "Tricolore Computing",
+    "description": "Filiale de Google citée comme partie à la promesse de vente foncière et comme maître d’ouvrage du campus projeté.",
+    "roles": [
+      {
+        "label": "Filiale de Google / portage foncier"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0021",
+      "evidence_0050"
+    ]
+  },
+  {
+    "id": "actor_0023",
+    "type": "organization",
+    "name": "Violet Computing",
+    "short_name": "Violet Computing",
+    "description": "Autre filiale de Google citée dans la saisine CNDP du projet Ozans et de ses raccordements ; projet distinct de la ligne nationale.",
+    "roles": [],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0021"
+    ]
+  },
+  {
+    "id": "actor_0024",
+    "type": "person",
+    "name": "Sébastien Missoffe",
+    "short_name": "Sébastien Missoffe",
+    "description": "Directeur général de Google France ; confirme l’étude du projet d’Ozans tout en indiquant qu’aucune décision définitive n’est prise.",
+    "roles": [
+      {
+        "label": "Directeur général Google France"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0034"
+    ]
+  },
+  {
+    "id": "actor_0025",
+    "type": "organization",
+    "name": "Conseil communautaire de Châteauroux Métropole",
+    "short_name": "Conseil communautaire de Châteauroux Métropole",
+    "description": "Instance ayant délibéré sur l’aire d’étude du raccordement du campus Google ; le vote ne signifie pas l’approbation d’un fuseau précis de la ligne Éguzon–Marmagne.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0032"
+    ]
+  },
+  {
+    "id": "actor_0026",
+    "type": "person",
+    "name": "Jérémie Godet",
+    "short_name": "Jérémie Godet",
+    "description": "Vice-président de la région Centre-Val de Loire délégué au climat (Les Écologistes) ; critique le campus Google et les conflits possibles d’usage de l’électricité, sans demander l’abandon de la ligne RTE.",
+    "roles": [
+      {
+        "label": "Conseiller régional délégué au climat"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0037"
+    ]
+  },
+  {
+    "id": "actor_0027",
+    "type": "person",
+    "name": "Éric Domenge-Abeau",
+    "short_name": "Éric Domenge-Abeau",
+    "description": "Élu d’opposition au conseil communautaire de Châteauroux Métropole ; critique le projet Google et redoute des impacts liés à son raccordement.",
+    "roles": [
+      {
+        "label": "Élu communautaire d’opposition"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0033",
+      "evidence_0032"
+    ]
+  },
+  {
+    "id": "actor_0028",
+    "type": "person",
+    "name": "Delphine Chambonneau",
+    "short_name": "Delphine Chambonneau",
+    "description": "Élue communautaire de Châteauroux mentionnée parmi les trois votes contre une délibération relative au raccordement du campus Google ; vote distinct de la ligne RTE.",
+    "roles": [],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0032"
+    ]
+  },
+  {
+    "id": "actor_0029",
+    "type": "person",
+    "name": "Bruno Mascle",
+    "short_name": "Bruno Mascle",
+    "description": "Élu de Déols mentionné parmi les trois votes contre une délibération relative à l’aire d’étude du raccordement de Google ; aucune position sur le fuseau national n’est prouvée.",
+    "roles": [],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0032"
+    ]
+  },
+  {
+    "id": "actor_0030",
+    "type": "person",
+    "name": "Florence Laurent",
+    "short_name": "Florence Laurent",
+    "description": "Ancienne maire d’Étrechet ayant démissionné en septembre 2026 pour protester contre la gouvernance du projet de campus Google ; position sur la ligne RTE inconnue.",
+    "roles": [
+      {
+        "label": "Ancienne maire d’Étrechet"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0043"
+    ]
+  },
+  {
+    "id": "actor_0031",
+    "type": "person",
+    "name": "Marie-Pierre Chabenat-Canals",
+    "short_name": "Marie-Pierre Chabenat-Canals",
+    "description": "Ancienne deuxième adjointe d’Étrechet, démissionnaire en septembre 2026 ; critique le manque d’études et d’information sur le campus Google.",
+    "roles": [
+      {
+        "label": "Ancienne adjointe d’Étrechet"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0041",
+      "evidence_0044"
+    ]
+  },
+  {
+    "id": "actor_0032",
+    "type": "person",
+    "name": "Bruno Deterne",
+    "short_name": "Bruno Deterne",
+    "description": "Ancien premier adjoint d’Étrechet, démissionnaire ; juge le campus Google démesuré, sans rejeter le principe des centres de données.",
+    "roles": [
+      {
+        "label": "Ancien premier adjoint d’Étrechet"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0042",
+      "evidence_0044"
+    ]
+  },
+  {
+    "id": "actor_0033",
+    "type": "person",
+    "name": "Christian Jubard",
+    "short_name": "Christian Jubard",
+    "description": "Ancien troisième adjoint d’Étrechet, signataire d’un communiqué de démission en lien avec l’absence de prise sur le projet Google.",
+    "roles": [],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0044"
+    ]
+  },
+  {
+    "id": "actor_0034",
+    "type": "person",
+    "name": "Sylvie Gessier",
+    "short_name": "Sylvie Gessier",
+    "description": "Ancienne conseillère municipale d’Étrechet, cosignataire de la déclaration de démission en lien avec le campus Google.",
+    "roles": [],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0044"
+    ]
+  },
+  {
+    "id": "actor_0035",
+    "type": "person",
+    "name": "Guillaume Chaussemy",
+    "short_name": "Guillaume Chaussemy",
+    "description": "Maire du Pont-Chrétien-Chabenet, critique les estimations de créations d’emplois et de retombées économiques du campus Google.",
+    "roles": [
+      {
+        "label": "Maire du Pont-Chrétien-Chabenet"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0039"
+    ]
+  },
+  {
+    "id": "actor_0036",
+    "type": "person",
+    "name": "François Avisseau",
+    "short_name": "François Avisseau",
+    "description": "Maire d’Éguzon-Chantôme, critique le campus Google au nom de la souveraineté numérique ; position sur la ligne RTE non établie.",
+    "roles": [
+      {
+        "label": "Maire d’Éguzon-Chantôme"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0040"
+    ]
+  },
+  {
+    "id": "actor_0037",
+    "type": "person",
+    "name": "Gilbert Blanc",
+    "short_name": "Gilbert Blanc",
+    "description": "Maire de Mâron favorable au principe des usages de l’IA et peu inquiet du projet Google ; aucune position sur la ligne nationale n’est fournie.",
+    "roles": [
+      {
+        "label": "Maire de Mâron"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0045"
+    ]
+  },
+  {
+    "id": "actor_0038",
+    "type": "organization",
+    "name": "Collectif « Ozans dire non »",
+    "short_name": "Ozans dire non",
+    "description": "Collectif local mobilisé contre le campus Google sur la ZAC d’Ozans, son artificialisation et sa pression sur les ressources ; pas de position unique démontrée sur la ligne RTE.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0035",
+      "evidence_0038",
+      "evidence_0046"
+    ]
+  },
+  {
+    "id": "actor_0039",
+    "type": "person",
+    "name": "Raphaël Tillie",
+    "short_name": "Raphaël Tillie",
+    "description": "Représentant du collectif Ozans dire non, alerte sur les impacts environnementaux et agricoles du campus de centres de données.",
+    "roles": [],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0047"
+    ]
+  },
+  {
+    "id": "actor_0040",
+    "type": "organization",
+    "name": "Confédération paysanne — Indre",
+    "short_name": "Confédération paysanne — Indre",
+    "description": "Organisation agricole citée dans les mobilisations contre le projet Google et sa consommation de foncier ; aucune opposition générale à la ligne Éguzon–Marmagne explicitement prouvée.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0048",
+      "evidence_0038"
+    ]
+  },
+  {
+    "id": "actor_0041",
+    "type": "person",
+    "name": "Philippe Guénin",
+    "short_name": "Philippe Guénin",
+    "description": "Éleveur laitier retraité et membre du comité départemental de la Confédération paysanne ; critique le changement d’affectation de terres agricoles pour Google.",
+    "roles": [],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0048"
+    ]
+  },
+  {
+    "id": "actor_0042",
+    "type": "organization",
+    "name": "Parti socialiste de l’Indre",
+    "short_name": "Parti socialiste de l’Indre",
+    "description": "Fédération locale critiquant le campus Google et la possibilité que le renforcement du réseau profite essentiellement au groupe américain.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0036"
+    ]
+  },
+  {
+    "id": "actor_0043",
+    "type": "organization",
+    "name": "Stop data center 36",
+    "short_name": "Stop data center 36",
+    "description": "Collectif créé dans l’opposition locale au projet de campus Google ; n’est pas présenté comme un opposant systématique à toute nouvelle ligne RTE.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0046"
+    ]
+  },
+  {
+    "id": "actor_0044",
+    "type": "person",
+    "name": "Louis Collin",
+    "short_name": "Louis Collin",
+    "description": "Castelroussin cité comme fondateur du collectif Stop data center 36.",
+    "roles": [],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0046"
+    ]
+  },
+  {
+    "id": "actor_0045",
+    "type": "organization",
+    "name": "Les Citoyens du Berry",
+    "short_name": "Les Citoyens du Berry",
+    "description": "Collectif local récemment créé contre le projet Google et pour une plus grande participation des riverains aux décisions sur le foncier.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0046"
+    ]
+  },
+  {
+    "id": "actor_0046",
+    "type": "person",
+    "name": "Stéphanie Mercier",
+    "short_name": "Stéphanie Mercier",
+    "description": "Ancienne conseillère municipale d’Étrechet et cofondatrice des Citoyens du Berry, conteste l’absence de prise locale sur l’aménagement d’Ozans.",
+    "roles": [],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0046"
+    ]
+  },
+  {
+    "id": "actor_0047",
+    "type": "person",
+    "name": "Michaël Bruneau",
+    "short_name": "Michaël Bruneau",
+    "description": "Chef d’entreprise de maçonnerie et cofondateur des Citoyens du Berry, préconise d’autres usages agricoles du site.",
+    "roles": [],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0046"
+    ]
+  },
+  {
+    "id": "actor_0048",
+    "type": "person",
+    "name": "Marie-Claire Eustache",
+    "short_name": "Marie-Claire Eustache",
+    "description": "Garante CNDP de la concertation sur le campus Google et son raccordement, distincte des deux garantes du projet Éguzon–Marmagne.",
+    "roles": [
+      {
+        "label": "Garante CNDP du projet Google"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0024",
+      "evidence_0049"
+    ]
+  },
+  {
+    "id": "actor_0049",
+    "type": "person",
+    "name": "Romane Harmel-Samarcq",
+    "short_name": "Romane Harmel-Samarcq",
+    "description": "Garante CNDP de la concertation Google/Ozans et de son raccordement (2 novembre 2026–10 janvier 2027).",
+    "roles": [
+      {
+        "label": "Garante CNDP du projet Google"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0024",
+      "evidence_0049"
+    ]
+  },
+  {
+    "id": "actor_0050",
+    "type": "person",
+    "name": "Jean-Louis Laure",
+    "short_name": "Jean-Louis Laure",
+    "description": "Garant CNDP de la concertation Google/Ozans et de son raccordement ; ne garantit pas la procédure Éguzon–Marmagne.",
+    "roles": [
+      {
+        "label": "Garant CNDP du projet Google"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0024",
+      "evidence_0049"
+    ]
+  },
+  {
+    "id": "actor_0051",
+    "type": "organization",
+    "name": "Énergies renouvelables et électrification régionale",
+    "short_name": "Énergies renouvelables et électrification régionale",
+    "description": "Évolutions de la production électrique décarbonée et de la consommation industrielle présentées par RTE comme motifs structurels de la ligne nationale.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0013",
+      "evidence_0051"
+    ]
+  },
+  {
+    "id": "actor_0052",
+    "type": "organization",
+    "name": "Ligne aérienne 225 kV existante Éguzon–Marmagne",
+    "short_name": "Ligne 225 kV",
+    "description": "Ancienne liaison entre les postes d’Éguzon et Marmagne dont une dépose partielle est prévue dans le projet RTE.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001",
+      "evidence_0013"
+    ]
+  },
+  {
+    "id": "actor_0053",
+    "type": "organization",
+    "name": "Poste électrique d’Éguzon (36)",
+    "short_name": "Poste Éguzon",
+    "description": "Poste électrique de l’Indre constituant l’extrémité méridionale de la liaison RTE.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001"
+    ]
+  },
+  {
+    "id": "actor_0054",
+    "type": "organization",
+    "name": "Poste électrique de Marmagne (18)",
+    "short_name": "Poste Marmagne",
+    "description": "Poste électrique du Cher constituant l’extrémité septentrionale de la liaison RTE.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001"
+    ]
+  },
+  {
+    "id": "actor_0055",
+    "type": "organization",
+    "name": "Huit fuseaux A–H et zone de convergence",
+    "short_name": "Fuseaux A–H",
+    "description": "Quatre fuseaux au sud d’Éguzon et quatre au nord de Marmagne, convergeant à proximité d’Ozans ; aucun tracé définitif arrêté à la date d’arrêté.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0011",
+      "evidence_0007",
+      "evidence_0003"
+    ]
+  },
+  {
+    "id": "actor_0056",
+    "type": "organization",
+    "name": "ZAC d’Ozans / Étrechet",
+    "short_name": "ZAC Ozans",
+    "description": "Zone d’activités à l’est de Châteauroux associée au projet de campus de données ; zone de convergence géographique des hypothèses de ligne RTE.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0021",
+      "evidence_0011"
+    ]
+  },
+  {
+    "id": "actor_0057",
+    "type": "organization",
+    "name": "Projet de campus de data centers Google à Ozans",
+    "short_name": "Campus Google Ozans",
+    "description": "Projet économique privé étudié à Étrechet sur environ 195 ha, distinct juridiquement de la ligne RTE Éguzon–Marmagne.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0021",
+      "evidence_0020",
+      "evidence_0027",
+      "evidence_0025"
+    ]
+  },
+  {
+    "id": "actor_0058",
+    "type": "organization",
+    "name": "Raccordement électrique Google/Ozans",
+    "short_name": "Raccordement Ozans",
+    "description": "Opérations de raccordement du campus Google pilotées par RTE : étape initiale de 120 MW sur 225 kV, hypothèses ultérieures en 400 kV ; procédure CNDP distincte de la ligne nationale.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0022",
+      "evidence_0026",
+      "evidence_0020"
+    ]
+  },
+  {
+    "id": "actor_0059",
+    "type": "organization",
+    "name": "Risque fiscal lié aux pylônes existants",
+    "short_name": "Taxe pylônes",
+    "description": "Les communes possédant des pylônes de l’ancienne ligne peuvent perdre tout ou partie de leur recette fiscale si le nouveau tracé passe ailleurs.",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0015",
+      "evidence_0016",
+      "evidence_0017"
+    ]
+  },
+  {
+    "id": "actor_0060",
+    "type": "organization",
+    "name": "Impacts agricoles, paysages et milieux naturels",
+    "short_name": "Agriculture / milieux",
+    "description": "Enjeux examinés dans la comparaison des fuseaux ; impacts à objectiver avant choix d’un tracé et étude d’impact.",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0004",
+      "evidence_0006"
+    ]
+  },
+  {
+    "id": "actor_0061",
+    "type": "organization",
+    "name": "Distinction des puissances et raccordements",
+    "short_name": "MW et périmètres",
+    "description": "Ne pas assimiler les 5 400 MW supplémentaires de capacité de transit de la ligne à la demande du campus Google (120 MW de première phase, extensions ultérieures).",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0009",
+      "evidence_0022",
+      "evidence_0026"
+    ]
+  },
+  {
+    "id": "actor_0062",
+    "type": "organization",
+    "name": "Concertation, études et DUP",
+    "short_name": "Concertation / DUP",
+    "description": "Concertation préalable jusqu’au 22 novembre 2026 ; étude d’impact et instruction de DUP ultérieures, aucune autorisation définitive démontrée dans le lot.",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001",
+      "evidence_0008"
+    ]
+  },
+  {
+    "id": "actor_0063",
+    "type": "organization",
+    "name": "Choix du fuseau et acceptabilité",
+    "short_name": "Choix de tracé",
+    "description": "Huit corridors étudiés ; préoccupations liées à l’emprise agricole, au foncier, à la fiscalité et aux paysages avant le choix d’un fuseau de moindre impact.",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0011",
+      "evidence_0003"
+    ]
+  },
+  {
+    "id": "actor_0064",
+    "type": "organization",
+    "name": "Eau, chaleur, bruit et emprise du campus Google",
+    "short_name": "Impacts campus",
+    "description": "Questions environnementales formulées sur le centre de données d’Ozans, mais qui ne démontrent pas à elles seules l’opposition au projet national de ligne.",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0030",
+      "evidence_0037"
+    ]
+  },
+  {
+    "id": "actor_0065",
+    "type": "organization",
+    "name": "Mobilisation contre le campus Google",
+    "short_name": "Mobilisation Ozans",
+    "description": "Oppositions politiques, agricoles et citoyennes contre l’implantation de Google ; objet distinct de la ligne de transport Éguzon–Marmagne.",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0035",
+      "evidence_0038"
+    ]
+  },
+  {
+    "id": "actor_0066",
+    "type": "media",
+    "name": "ICI Berry",
+    "short_name": "ICI Berry",
+    "description": "Éditeur ou organisme source du corpus transmis, non qualifié comme acteur favorable ou opposé.",
+    "roles": [],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0015"
+    ]
+  },
+  {
+    "id": "actor_0067",
+    "type": "media",
+    "name": "La Nouvelle République",
+    "short_name": "La NR",
+    "description": "Éditeur ou organisme source du corpus transmis, non qualifié comme acteur favorable ou opposé.",
+    "roles": [],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0032"
+    ]
+  },
+  {
+    "id": "actor_0068",
+    "type": "media",
+    "name": "CNDP / debatpublic.fr",
+    "short_name": "CNDP",
+    "description": "Éditeur ou organisme source du corpus transmis, non qualifié comme acteur favorable ou opposé.",
+    "roles": [],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001"
+    ]
+  },
+  {
+    "id": "actor_0069",
+    "type": "media",
+    "name": "Selectra",
+    "short_name": "Selectra",
+    "description": "Éditeur ou organisme source du corpus transmis, non qualifié comme acteur favorable ou opposé.",
+    "roles": [],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0009"
+    ]
+  },
+  {
+    "id": "actor_0070",
+    "type": "media",
+    "name": "Marianne",
+    "short_name": "Marianne",
+    "description": "Éditeur ou organisme source du corpus transmis, non qualifié comme acteur favorable ou opposé.",
+    "roles": [],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0038"
+    ]
+  },
+  {
+    "id": "actor_0071",
+    "type": "media",
+    "name": "Le Monde",
+    "short_name": "Le Monde",
+    "description": "Éditeur ou organisme source du corpus transmis, non qualifié comme acteur favorable ou opposé.",
+    "roles": [],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0047"
+    ]
+  }
+]

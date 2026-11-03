@@ -1,0 +1,222 @@
+{
+  "id": "project_eguzon_marmagne",
+  "title": "Cartographie interactive — Éguzon–Marmagne",
+  "subtitle": "Projet RTE de liaison aérienne à deux circuits 400 kV entre l’Indre et le Cher : concertation territoriale, choix du fuseau, enjeux agricoles et projet Google/Ozans distinct mais connexe.",
+  "last_updated": "2026-11-03",
+  "cutoff_date": "2026-11-02",
+  "data_notice": "Construite exclusivement depuis « Cartographie Eguzon.xlsx » (37 ressources). Sources et textes disponibles dans l’Excel ; URLs non ouvertes indépendamment. Ne pas confondre opposition au campus Google et opposition à la ligne RTE. Sans position explicite sur la ligne, la position reste non documentée.",
+  "griefs": [
+    {
+      "title": "⚡ Justification du renforcement national",
+      "text": "RTE présente la liaison aérienne 400 kV à deux circuits comme un renforcement de l’axe Éguzon–Marmagne pour transporter davantage de production décarbonée et accompagner l’électrification. L’estimation de 5 400 MW est une capacité de transit ajoutée, pas une demande propre au campus Google.",
+      "evidence_ids": [
+        "evidence_0001",
+        "evidence_0013",
+        "evidence_0009"
+      ]
+    },
+    {
+      "title": "🗺️ Huit fuseaux et territoire de concertation",
+      "text": "Quatre fuseaux au sud (A à D) et quatre au nord (E à H) sont étudiés sur une aire comprenant 128 communes de l’Indre et du Cher ; les variantes peuvent mesurer 90 à 110 km. Aucun passage définitif ni implantation de pylône n’est arrêté dans le corpus.",
+      "evidence_ids": [
+        "evidence_0011",
+        "evidence_0010",
+        "evidence_0003"
+      ]
+    },
+    {
+      "title": "🏛️ Calendrier administratif et transparence",
+      "text": "La CNDP a validé la concertation du 28 septembre au 22 novembre 2026 ; étude d’impact et demande de DUP sont attendues ultérieurement. Le jalon 2029 de DUP et la mise en service 2032 relèvent du calendrier prévisionnel RTE, non d’une autorisation acquise.",
+      "evidence_ids": [
+        "evidence_0001",
+        "evidence_0008",
+        "evidence_0005"
+      ]
+    },
+    {
+      "title": "💶 Risque de perte des taxes sur pylônes",
+      "text": "L’enjeu n’est pas une opposition globale au renforcement : Chouday, Meunet-Planches et Saint-Août s’inquiètent d’une perte de fiscalité si les pylônes historiques disparaissent de leur territoire. Les 52 000 €, 30 000 € et 6 000 € annuels cités restent conditionnels.",
+      "evidence_ids": [
+        "evidence_0015",
+        "evidence_0016",
+        "evidence_0017"
+      ]
+    },
+    {
+      "title": "🌾 Impacts agricoles et environnementaux",
+      "text": "Les chambres d’agriculture sont associées par RTE à la comparaison des fuseaux ; la CNDP demande d’examiner alternatives, option zéro, paysage, risque incendie et information des publics concernés. Aucune emprise agricole définitive n’est démontrée.",
+      "evidence_ids": [
+        "evidence_0004",
+        "evidence_0006",
+        "evidence_0003"
+      ]
+    },
+    {
+      "title": "🏢 Projet Google : raccordement lié, opération distincte",
+      "text": "Le campus d’Ozans et ses ouvrages RTE possèdent une concertation séparée (2 novembre 2026–10 janvier 2027). Le premier bâtiment pourrait demander 120 MW à 225 kV ; les développements futurs supposent de nouveaux ouvrages 400 kV. Les montants 8,6 Md€ et 125 M€ se rapportent à ce projet associé, pas à la ligne nationale.",
+      "evidence_ids": [
+        "evidence_0020",
+        "evidence_0022",
+        "evidence_0023",
+        "evidence_0024"
+      ]
+    },
+    {
+      "title": "📣 Mobilisation autour du campus Google",
+      "text": "Ozans dire non, Stop data center 36, Les Citoyens du Berry et plusieurs élus critiquent l’emprise foncière, les ressources et la gouvernance du campus. Il serait incorrect de transformer automatiquement cette opposition au campus en opposition à la ligne RTE.",
+      "evidence_ids": [
+        "evidence_0035",
+        "evidence_0046",
+        "evidence_0038",
+        "evidence_0037"
+      ]
+    },
+    {
+      "title": "💧 Eau, chaleur, emploi et financement du campus",
+      "text": "Google et Gil Avérous présentent des scénarios d’emplois et de récupération de chaleur ; riverains et élus contestent les hypothèses d’eau, de températures, de foncier et d’emplois. Les estimations directes/indirectes/induites ne constituent pas des emplois directs certains.",
+      "evidence_ids": [
+        "evidence_0028",
+        "evidence_0030",
+        "evidence_0029",
+        "evidence_0041"
+      ]
+    }
+  ],
+  "vigilance": [
+    "Ne pas confondre deux projets : la ligne nationale Éguzon–Marmagne (RTE) et le campus Google/Ozans ainsi que son raccordement font l’objet de procédures CNDP et de responsabilités distinctes.",
+    "Ne pas additionner ni assimiler les puissances : 5 400 MW de transit supplémentaire sur la ligne ; 120 MW phase initiale Ozans ; puis scénarios évolutifs de 300 et potentiellement 1 200 MW côté campus.",
+    "L’emprise et le nombre de bâtiments Google évoluent : 8 à 10 bâtiments dans les anciennes notices CNDP ; 6 à 8 dans l’annonce d’octobre 2026. Prévision de premier bâtiment passée de 2028–2029 à environ 2030.",
+    "Le linéaire de la ligne est un ordre de grandeur : 90 à 110 km selon les hypothèses de fuseau ; la valeur moyenne de 100 km n’est pas un tracé définitif.",
+    "Le coût de 300 M€ est une estimation de RTE, sensible à la longueur du fuseau et au calendrier. Les 125 M€ de raccordement Google sont un périmètre financier distinct.",
+    "Une délibération de juillet 2026 valide la concertation, pas la DUP : lancement des travaux 2030 et mise en service 2032 au plus tôt restent prévisionnels.",
+    "Perte des taxes communales uniquement conditionnelle au choix du futur corridor et au devenir des anciens pylônes : ne pas présenter les pertes de Chouday, Meunet-Planches ou Saint-Août comme réalisées.",
+    "Les opposants du corpus sont principalement mobilisés contre Google/Ozans ; leur affecter la position `opposed` sur la ligne nationale serait une erreur. Seules les positions explicites sur la ligne sont codées.",
+    "L’article de Saint-Florent-sur-Cher est partiellement payant et ne permet pas d’attribuer des opinions nominatives. La source RTE via Google Actualités n’est pas une URL éditeur canonique.",
+    "La consultation agricole est engagée, mais la CNDP indique qu’au 22 juillet 2026 les syndicats agricoles n’avaient pas encore été rencontrés ; il ne faut pas confondre chambres consultées et soutien des syndicats.",
+    "Les chiffres Google d’emplois (construction, exploitation, effets induits), de chaleur et de consommation d’eau proviennent d’affirmations de porteurs ou de commentaires, pas de bilans ex post indépendants.",
+    "L’article Curebot intitulé « Article Châteauroux Le Monde » comporte dans son texte une URL de partage du Monde ; ce lien a été repris comme indiqué, sans prétendre avoir accédé au journal via Internet."
+  ],
+  "vigilance_evidence_ids": [
+    [
+      "evidence_0020",
+      "evidence_0001",
+      "evidence_0024"
+    ],
+    [
+      "evidence_0009",
+      "evidence_0022",
+      "evidence_0026"
+    ],
+    [
+      "evidence_0027",
+      "evidence_0021",
+      "evidence_0052"
+    ],
+    [
+      "evidence_0003",
+      "evidence_0011",
+      "evidence_0009"
+    ],
+    [
+      "evidence_0014",
+      "evidence_0003",
+      "evidence_0023"
+    ],
+    [
+      "evidence_0001",
+      "evidence_0008"
+    ],
+    [
+      "evidence_0015",
+      "evidence_0016",
+      "evidence_0017"
+    ],
+    [
+      "evidence_0035",
+      "evidence_0037",
+      "evidence_0036",
+      "evidence_0015"
+    ],
+    [
+      "evidence_0018",
+      "evidence_0007"
+    ],
+    [
+      "evidence_0004"
+    ],
+    [
+      "evidence_0028",
+      "evidence_0029",
+      "evidence_0030",
+      "evidence_0037"
+    ],
+    [
+      "evidence_0047"
+    ]
+  ],
+  "source_descriptions": [
+    "Légifrance / Journal officiel — Décision n° 2026/72/LIGNE THT EGUZON - MARMAGNE/2 du 22 juillet 2026 d'engager la concertation préalable relative au projet de création d'une ligne aérienne de transport d'électricité à 400 000 volts entre les postes électriques d'Eguzon (36) et de Marmag",
+    "Commission nationale du débat public — Compte rendu de la séance plénière CNDP du 22 juillet 2026 : concertation Éguzon–Marmagne",
+    "Google Actualités (agrégateur) — Renforcement du réseau électrique entre Eguzon et Marmagne",
+    "Selectra — Data center de Google et nouvelle ligne à haute tension dans l'Indre : les dates pour donner votre avis",
+    "Le Berry Républicain — Lancement de la concertation publique pour le projet de ligne électrique Éguzon-Marmagne",
+    "ICI / France Bleu — RTE débute les consultations avant les travaux de doublement de la ligne Eguzon-Marmagne",
+    "ICI Berry — \"40% de nos ressources\" : dans l'Indre, des communes s'inquiètent du changement de tracé d'une ligne haute tension",
+    "Google Actualités (agrégateur) — Saint-Florent-sur-Cher. Pourquoi la future liaison électrique Eguzon-Marmagne fait débat : entre data center et soucis de GPS agricole",
+    "La Nouvelle République — Ligne à très haute tension Éguzon-Marmagne : RTE vient présenter le projet à Neuvy-Saint-Sépulchre",
+    "Commission nationale du débat public — Data center \"Ozans-Châteauroux\" de Google et son raccordement électrique",
+    "L’Usine Digitale — “Jusqu’à huit bâtiments sur vingt ans” : Google précise son projet de data center géant près de Châteauroux",
+    "L’Énergeek — Google à Étrechet : la concertation sur son raccordement électrique de 120 MW s’ouvre",
+    "La Nouvelle République — Retombées pour toute l’Agglo de Châteauroux, garanties d’emplois, mesures des températures : Gil Avérous brandit de nouveaux arguments pour le projet de data center de Google",
+    "La Nouvelle République — « On ne peut pas passer à côté de ça » : le débat sur le futur data center Google divise au conseil communautaire de Châteauroux",
+    "La Nouvelle République — « Aucune décision définitive n’a encore été prise » : l’incertitude persiste autour du data center de Google à Châteauroux",
+    "La Nouvelle République — Projet de data center à Ozans : le PS de l’Indre craint que le site ne devienne « une colonie numérique des États-Unis »",
+    "ICI Berry — \"On y perd largement\" : le conseiller régional Jérémie Godet dénonce le projet de Data Center Google à Châteauroux",
+    "Marianne — Mobilisation du 17 octobre : près de Châteauroux, les datas centers de la colère",
+    "Le Nouvel Obs — « Nos villages ne sont pas des usines à données » : au cœur de la rébellion contre les data centers de Google dans le Berry",
+    "Alouette — Du rififi autour du data center de Google près de Châteauroux",
+    "Curebot (contenu fourni) — Article Châteauroux Le Monde",
+    "L’Écho du Berry — Economie. Où en est le projet de data center Google à Châteauroux ?",
+    "ICI Berry — Data center de Google près de Châteauroux : le calendrier du projet se précise",
+    "Google Actualités (agrégateur) — Entre saturation des paysages et transition énergétique, la difficile équation des parcs éoliens divise le Pays d’Issoudun et le nord de l’Indre",
+    "DCmag — Où en est le projet de data center XXL de Google à Châteauroux ?"
+  ],
+  "project_facts": {
+    "voltage_kv": 400,
+    "circuits": 2,
+    "length_km_range": [
+      90,
+      110
+    ],
+    "length_km_approx": 100,
+    "transport_capacity_additional_mw_estimate": 5400,
+    "estimated_project_cost_eur": 300000000,
+    "communes_in_study_area": 128,
+    "fuseau_count": 8,
+    "public_consultation": {
+      "start": "2026-09-28",
+      "end": "2026-11-22"
+    },
+    "environmental_impact_and_dup_application_forecast": "2027–2028",
+    "dup_forecast": "2029",
+    "work_start_forecast": "2030",
+    "earliest_in_service": "2032",
+    "related_google_ozans": {
+      "legally_distinct": true,
+      "consultation_from": "2026-11-02",
+      "consultation_to": "2027-01-10",
+      "phase1_225kv_mw": 120,
+      "future_phase_mw_not_final": true
+    },
+    "status": "Tracé définitif non fixé dans le corpus ; autorisations non acquises"
+  },
+  "project_fact_evidence_ids": [
+    "evidence_0001",
+    "evidence_0003",
+    "evidence_0011",
+    "evidence_0009",
+    "evidence_0008",
+    "evidence_0020",
+    "evidence_0022"
+  ]
+}

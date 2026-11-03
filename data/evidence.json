@@ -1,0 +1,812 @@
+[
+  {
+    "id": "evidence_0001",
+    "type": "official_fact",
+    "text": "La CNDP valide le dossier et les modalités de concertation du projet de ligne aérienne 400 000 V à deux circuits Éguzon–Marmagne, incluant une dépose partielle de la ligne 225 kV existante ; la concertation est fixée du 28 septembre au 22 novembre 2026.",
+    "source_id": "source_0001",
+    "source_ids": [
+      "source_0001"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-07-22",
+    "accessed_at": null,
+    "location": "Décision n° 2026/72, articles 1 à 3",
+    "xlsx_row": 21,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0002",
+    "type": "official_fact",
+    "text": "Le compte rendu de la formation plénière CNDP du 22 juillet 2026 identifie les représentants RTE Olivier Brisset et Cyril Mounier, Jean-Yves Lebrec (AMO CAMPARDOU) et les garantes Brigitte Chalopin et Jessica Raclot.",
+    "source_id": "source_0002",
+    "source_ids": [
+      "source_0002"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-07-22",
+    "accessed_at": null,
+    "location": "Pages 2 et 3 : partie Éguzon–Marmagne, uniquement",
+    "xlsx_row": 18,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0003",
+    "type": "official_fact",
+    "text": "Les variantes de fuseaux portent sur environ 90 à 110 km, avec un ordre de grandeur de coût moyen restant sensible au linéaire ; la CNDP demande que cette variation soit explicable dans les réunions.",
+    "source_id": "source_0002",
+    "source_ids": [
+      "source_0002"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-07-22",
+    "accessed_at": null,
+    "location": "Page 3 : coût et financement",
+    "xlsx_row": 18,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0004",
+    "type": "official_fact",
+    "text": "RTE indique rencontrer mensuellement les chambres d’agriculture et comparer les variantes de fuseaux selon les enjeux agricoles ; les syndicats agricoles ne sont pas encore rencontrés à cette date.",
+    "source_id": "source_0002",
+    "source_ids": [
+      "source_0002"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-07-22",
+    "accessed_at": null,
+    "location": "Page 3 : relations avec le monde agricole",
+    "xlsx_row": 18,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0005",
+    "type": "official_fact",
+    "text": "Les modalités comprennent réunions publiques, rencontres catégorielles, débats mobiles, plateformes, visites d’ouvrages et relais locaux, y compris les mairies et chambres consulaires.",
+    "source_id": "source_0002",
+    "source_ids": [
+      "source_0002"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-07-22",
+    "accessed_at": null,
+    "location": "Pages 2 et 3 : modalités de participation",
+    "xlsx_row": 18,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0006",
+    "type": "official_fact",
+    "text": "La présentation du dossier de la ligne comprend expressément l’examen des solutions alternatives et de l’option zéro.",
+    "source_id": "source_0002",
+    "source_ids": [
+      "source_0002"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-07-22",
+    "accessed_at": null,
+    "location": "Page 2 : composition du dossier",
+    "xlsx_row": 18,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0007",
+    "type": "reported_fact",
+    "text": "Le contenu du site RTE reproduit dans l’Excel présente huit hypothèses de fuseaux A à H, une convergence à l’est de Châteauroux près d’Ozans, et trois jonctions possibles entre fuseaux du nord.",
+    "source_id": "source_0003",
+    "source_ids": [
+      "source_0003"
+    ],
+    "source_status": "to_qualify_aggregator",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Page RTE reproduite par agrégateur Google Actualités, ligne 20",
+    "xlsx_row": 20,
+    "certainty": "medium"
+  },
+  {
+    "id": "evidence_0008",
+    "type": "reported_fact",
+    "text": "Dans la présentation RTE reprise par le lot : 2026 concertation et fuseau ; 2027–2028 étude d’impact et demande de DUP ; 2029 DUP envisagée ; 2030 travaux ; 2032 au plus tôt mise en service, sous réserve de dynamique industrielle.",
+    "source_id": "source_0003",
+    "source_ids": [
+      "source_0003"
+    ],
+    "source_status": "to_qualify_aggregator",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Étapes du projet reproduites dans l’Excel",
+    "xlsx_row": 20,
+    "certainty": "medium"
+  },
+  {
+    "id": "evidence_0009",
+    "type": "reported_fact",
+    "text": "Le média décrit une ligne aérienne 400 kV d’environ 100 km et 5 400 MW de capacité de transit supplémentaire, budget annoncé de l’ordre de 300 M€ et mise en service au plus tôt en 2032.",
+    "source_id": "source_0004",
+    "source_ids": [
+      "source_0004"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Rubriques « Où passera la ligne ? » et calendrier",
+    "xlsx_row": 6,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0010",
+    "type": "reported_fact",
+    "text": "RTE étudie huit fuseaux sur un périmètre de 128 communes de l’Indre et du Cher, environ 2 805 km² ; être dans la zone d’étude ne signifie pas que la commune sera traversée.",
+    "source_id": "source_0004",
+    "source_ids": [
+      "source_0004"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Rubrique « Votre commune fait-elle partie... »",
+    "xlsx_row": 6,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0011",
+    "type": "reported_fact",
+    "text": "Quatre fuseaux au sud (A–D) et quatre au nord (E–H) sont en concertation autour d’une zone de convergence à l’est de Châteauroux ; le tracé précis n’est pas arrêté.",
+    "source_id": "source_0004",
+    "source_ids": [
+      "source_0004"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Rubrique « Où passera la ligne ? »",
+    "xlsx_row": 6,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0012",
+    "type": "reported_fact",
+    "text": "La consultation du public sur la ligne aérienne 400 kV Éguzon–Marmagne a commencé le 28 septembre 2026 et prend fin le 22 novembre 2026 ; la mise en service est projetée en 2032 au plus tôt.",
+    "source_id": "source_0005",
+    "source_ids": [
+      "source_0005"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-09-30",
+    "accessed_at": null,
+    "location": "Article « Lancement de la concertation publique »",
+    "xlsx_row": 15,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0013",
+    "type": "reported_fact",
+    "text": "RTE présente le renforcement comme nécessaire pour l’électrification industrielle et le transport de production décarbonée ; Cyril Mounier décrit des consultations des maires, associations et administrations des deux départements.",
+    "source_id": "source_0006",
+    "source_ids": [
+      "source_0006"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Article ICI publié en 2025 ; pré-phase de concertation",
+    "xlsx_row": 35,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0014",
+    "type": "reported_fact",
+    "text": "L’article indique un investissement prévisionnel RTE de 300 M€ et un accompagnement territorial estimé entre 15 et 20 M€, ainsi qu’une fiscalité sur les pylônes ; les montants sont des estimations historiques attribuées.",
+    "source_id": "source_0006",
+    "source_ids": [
+      "source_0006"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Derniers paragraphes ; montants non définitifs",
+    "xlsx_row": 35,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0015",
+    "type": "reported_fact",
+    "text": "Carole Branchereau, maire de Chouday, privilégie le maintien de la liaison sur le couloir existant et redoute une perte de 52 000 € annuels de taxe sur 16 pylônes (environ 40 % des recettes municipales).",
+    "source_id": "source_0007",
+    "source_ids": [
+      "source_0007"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Passages sur Chouday et propos de la maire",
+    "xlsx_row": 14,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0016",
+    "type": "reported_fact",
+    "text": "Meunet-Planches pourrait perdre neuf pylônes, soit environ 30 000 € annuels de fiscalité, si la nouvelle liaison s’écarte de l’ancien passage : situation hypothétique.",
+    "source_id": "source_0007",
+    "source_ids": [
+      "source_0007"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Dernier paragraphe",
+    "xlsx_row": 14,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0017",
+    "type": "reported_fact",
+    "text": "Saint-Août pourrait subir une perte de l’ordre de 6 000 € de taxe sur les pylônes, si ceux de l’ancienne ligne disparaissent sans remplacement sur la commune.",
+    "source_id": "source_0007",
+    "source_ids": [
+      "source_0007"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Dernier paragraphe",
+    "xlsx_row": 14,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0018",
+    "type": "reported_fact",
+    "text": "Un article partiellement reproduit évoque une réunion RTE à Saint-Florent-sur-Cher et des préoccupations agricoles concernant notamment le GPS ; l’article complet n’est pas disponible.",
+    "source_id": "source_0008",
+    "source_ids": [
+      "source_0008"
+    ],
+    "source_status": "to_qualify_aggregator",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Extrait et titre via agrégateur, contenu payant",
+    "xlsx_row": 5,
+    "certainty": "low"
+  },
+  {
+    "id": "evidence_0019",
+    "type": "reported_fact",
+    "text": "Une réunion publique RTE à Neuvy-Saint-Sépulchre est annoncée pour le 4 novembre 2026 ; la commune pourrait relever d’une des hypothèses de fuseau.",
+    "source_id": "source_0009",
+    "source_ids": [
+      "source_0009"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Extrait limité de l’article",
+    "xlsx_row": 12,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0020",
+    "type": "reported_fact",
+    "text": "La CNDP précise que le campus Google d’Ozans et son raccordement électrique constituent une opération distincte de la ligne nationale 400 kV Éguzon–Marmagne, bien que RTE intervienne dans les deux projets.",
+    "source_id": "source_0010",
+    "source_ids": [
+      "source_0010"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Présentation du projet et distinction juridique",
+    "xlsx_row": 30,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0021",
+    "type": "reported_fact",
+    "text": "Google France et ses filiales Tricolore Computing et Violet Computing étudient un campus de six à huit bâtiments sur 10 à 20 ans à Ozans/Étrechet, premier bâtiment vers 2030 ; le projet n’est pas autorisé.",
+    "source_id": "source_0011",
+    "source_ids": [
+      "source_0011"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-10-12",
+    "accessed_at": null,
+    "location": "Présentation du 12 octobre 2026",
+    "xlsx_row": 10,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0022",
+    "type": "reported_fact",
+    "text": "La première phase du campus Google serait alimentée par un raccordement à 225 kV de 120 MW, et une seconde phase appellerait un raccordement à 400 kV assuré par RTE ; les deux phases ne sont pas une puissance finale certaine.",
+    "source_id": "source_0011",
+    "source_ids": [
+      "source_0011"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-10-12",
+    "accessed_at": null,
+    "location": "Phasage électrique",
+    "xlsx_row": 10,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0023",
+    "type": "reported_fact",
+    "text": "Google attribue environ 8,6 Md€ au campus et à sa quote-part électrique, et 125 M€ aux ouvrages de raccordement portés par RTE ; ces chiffres concernent le campus et son raccordement, pas le budget de 300 M€ de la ligne nationale.",
+    "source_id": "source_0011",
+    "source_ids": [
+      "source_0011"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-10-12",
+    "accessed_at": null,
+    "location": "Passage « coût estimé »",
+    "xlsx_row": 10,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0024",
+    "type": "reported_fact",
+    "text": "La concertation Google/Ozans et raccordement se tient du 2 novembre 2026 au 10 janvier 2027, sous le contrôle de trois garants : Marie-Claire Eustache, Romane Harmel-Samarcq et Jean-Louis Laure.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-11-02",
+    "accessed_at": null,
+    "location": "Début de l’article et rubrique contributions",
+    "xlsx_row": 2,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0025",
+    "type": "reported_fact",
+    "text": "Deux visites guidées du site Google sont annoncées les 25 et 28 novembre 2026 ; le lancement de la concertation ne vaut ni décision d’investissement ni autorisation de construire.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-11-02",
+    "accessed_at": null,
+    "location": "Fin de l’article et encadré « Contributions ouvertes »",
+    "xlsx_row": 2,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0026",
+    "type": "reported_fact",
+    "text": "Le scénario de raccordement lié à Google fait état d’une première phase 120 MW sur 225 kV, puis de 300 MW supplémentaires envisagés avec un poste à 400 kV, pouvant atteindre 1 200 MW selon l’évolution du réseau ; il ne s’agit pas de valeurs définitives de consommation.",
+    "source_id": "source_0004",
+    "source_ids": [
+      "source_0004"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Rubrique « Que prévoit Google... ? »",
+    "xlsx_row": 6,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0027",
+    "type": "reported_fact",
+    "text": "Le dossier CNDP historique du campus prévoyait huit à dix bâtiments avec première tranche 2028–2029 et extension à partir de 2031 : prévisions révisées en octobre 2026.",
+    "source_id": "source_0010",
+    "source_ids": [
+      "source_0010"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Phases historiques du dossier de saisine",
+    "xlsx_row": 30,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0028",
+    "type": "reported_fact",
+    "text": "Google estime 10 600 à 14 200 emplois annuels moyens directs, indirects et induits pendant la construction et 1 800 à 2 600 lors des premières années d’exploitation ; estimations du porteur, non emploi direct garanti.",
+    "source_id": "source_0011",
+    "source_ids": [
+      "source_0011"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-10-12",
+    "accessed_at": null,
+    "location": "Passage emploi, catégories de périmètre précisées",
+    "xlsx_row": 10,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0029",
+    "type": "reported_fact",
+    "text": "Gil Avérous présente jusqu’à 1 200 personnes mobilisées sur le chantier et 1 800 à 2 600 emplois directs, indirects et induits à l’exploitation ; il évoque une contribution socioéconomique supplémentaire négociée de 60 M€ sur neuf ans.",
+    "source_id": "source_0013",
+    "source_ids": [
+      "source_0013"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-10-30",
+    "accessed_at": null,
+    "location": "Rubriques retombées économiques et emplois",
+    "xlsx_row": 4,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0030",
+    "type": "reported_fact",
+    "text": "Gil Avérous rapporte un refroidissement en circuit fermé, avec charge initiale annoncée de 1 000 m³ d’eau par bâtiment, et plusieurs usages possibles de la chaleur ; il propose un suivi des températures autour du site.",
+    "source_id": "source_0013",
+    "source_ids": [
+      "source_0013"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-10-30",
+    "accessed_at": null,
+    "location": "Rubriques fonctionnement technique et suivi des températures",
+    "xlsx_row": 4,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0031",
+    "type": "reported_fact",
+    "text": "Gil Avérous soutient qu’il faut renforcer le réseau national RTE, mais distingue explicitement la ligne 400 kV nationale du raccordement d’Ozans ; il défend l’implantation Google.",
+    "source_id": "source_0014",
+    "source_ids": [
+      "source_0014"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Intervention au conseil communautaire",
+    "xlsx_row": 22,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0032",
+    "type": "reported_fact",
+    "text": "Le conseil communautaire de Châteauroux Métropole adopte par 49 voix pour et 3 contre la délibération relative à l’aire d’étude du raccordement Google ; Éric Domenge-Abeau, Delphine Chambonneau et Bruno Mascle votent contre.",
+    "source_id": "source_0014",
+    "source_ids": [
+      "source_0014"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Fin de l’article, vote et note de bas de page",
+    "xlsx_row": 22,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0033",
+    "type": "reported_fact",
+    "text": "Éric Domenge-Abeau redoute des conflits d’usage de l’électricité et des impacts fonciers liés au campus Google et à son raccordement, qu’il juge excessif pour le territoire.",
+    "source_id": "source_0014",
+    "source_ids": [
+      "source_0014"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Interventions de l’opposition au conseil",
+    "xlsx_row": 22,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0034",
+    "type": "reported_fact",
+    "text": "Sébastien Missoffe, DG de Google France, indique que le projet d’Ozans est réel mais qu’aucune décision définitive d’investissement n’est encore prise, plusieurs options restant à l’étude.",
+    "source_id": "source_0015",
+    "source_ids": [
+      "source_0015"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Déclarations reprises d’un entretien Ouest-France",
+    "xlsx_row": 23,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0035",
+    "type": "reported_fact",
+    "text": "Le collectif Ozans dire non lance une pétition visant l’abandon du campus Google, la transparence des informations et un moratoire sur les grands centres de données ; ces exigences portent sur Google.",
+    "source_id": "source_0015",
+    "source_ids": [
+      "source_0015"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Section « Une pétition en ligne »",
+    "xlsx_row": 23,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0036",
+    "type": "reported_fact",
+    "text": "Le Parti socialiste de l’Indre critique la consommation de foncier, le manque de transparence et le risque que l’interconnexion Éguzon–Marmagne bénéficie essentiellement à Google ; il n’appelle pas explicitement à l’abandon de la ligne RTE.",
+    "source_id": "source_0016",
+    "source_ids": [
+      "source_0016"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-06-08",
+    "accessed_at": null,
+    "location": "Communiqué du 8 juin 2026 reproduit dans l’article",
+    "xlsx_row": 25,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0037",
+    "type": "reported_fact",
+    "text": "Jérémie Godet dénonce un bilan territorial qu’il juge défavorable au campus Google et craint qu’une consommation électrique concentrée ne réduise l’accès à l’électricité pour la décarbonation des autres industries.",
+    "source_id": "source_0017",
+    "source_ids": [
+      "source_0017"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Entretien ICI Berry ; propos liés au campus, non au refus de la ligne",
+    "xlsx_row": 17,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0038",
+    "type": "reported_fact",
+    "text": "Le 17 octobre 2026, un rassemblement d’opposants au campus Google rassemble près d’un millier de participants selon Marianne ; la mobilisation est portée notamment par Ozans dire non.",
+    "source_id": "source_0018",
+    "source_ids": [
+      "source_0018"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-10-18",
+    "accessed_at": null,
+    "location": "Reportage de la manifestation",
+    "xlsx_row": 7,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0039",
+    "type": "reported_fact",
+    "text": "Guillaume Chaussemy, maire du Pont-Chrétien-Chabenet, conteste la crédibilité des estimations d’emplois liées au campus Google et critique les promesses de retombées locales.",
+    "source_id": "source_0018",
+    "source_ids": [
+      "source_0018"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-10-18",
+    "accessed_at": null,
+    "location": "Reportage : déclarations du maire",
+    "xlsx_row": 7,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0040",
+    "type": "reported_fact",
+    "text": "François Avisseau, maire d’Éguzon-Chantôme, critique le campus Google au nom de la souveraineté numérique et de la dépendance à un acteur américain.",
+    "source_id": "source_0018",
+    "source_ids": [
+      "source_0018"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-10-18",
+    "accessed_at": null,
+    "location": "Reportage : intervention du maire",
+    "xlsx_row": 7,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0041",
+    "type": "reported_fact",
+    "text": "Marie-Pierre Chabenat-Canals démissionne du conseil d’Étrechet et dénonce le manque d’études contradictoires sur les nuisances et l’emploi du campus Google.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Portrait de l’ancienne deuxième adjointe",
+    "xlsx_row": 11,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0042",
+    "type": "reported_fact",
+    "text": "Bruno Deterne, ancien premier adjoint d’Étrechet, juge le campus Google démesuré, tout en affirmant ne pas être opposé aux centres de données en général.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Passage sur les adjoints démissionnaires",
+    "xlsx_row": 11,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0043",
+    "type": "reported_fact",
+    "text": "Florence Laurent, maire d’Étrechet, démissionne en septembre 2026 à la suite de désaccords sur le campus Google et la participation des élus locaux.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Crise municipale décrite dans le reportage",
+    "xlsx_row": 11,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0044",
+    "type": "reported_fact",
+    "text": "Bruno Deterne, Marie-Pierre Chabenat-Canals, Christian Jubard et Sylvie Gessier cosignent un communiqué de démission, estimant ne pas pouvoir peser sur le dossier de campus Google.",
+    "source_id": "source_0020",
+    "source_ids": [
+      "source_0020"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Communiqué reproduit par Alouette",
+    "xlsx_row": 19,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0045",
+    "type": "reported_fact",
+    "text": "Gilbert Blanc, maire de Mâron, se dit peu préoccupé par le campus Google et défend des usages industriels de l’intelligence artificielle ; cette opinion ne vaut pas approbation du tracé de la ligne.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Entretien auprès du maire de Mâron",
+    "xlsx_row": 11,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0046",
+    "type": "reported_fact",
+    "text": "Le reportage identifie les collectifs Ozans dire non, Stop data center 36 et Les Citoyens du Berry comme organisations de la contestation du campus Google ; il nomme leurs animateurs.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Partie « Progrès virtuel, destruction réelle »",
+    "xlsx_row": 11,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0047",
+    "type": "reported_fact",
+    "text": "Raphaël Tillie, représentant d’Ozans dire non, critique la dimension du campus Google et ses effets sur les milieux, les cultures, la chaleur et les ressources.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-05-30",
+    "accessed_at": null,
+    "location": "Article du Monde reproduit via Curebot ; lien Le Monde communiqué dans la colonne F",
+    "xlsx_row": 27,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0048",
+    "type": "reported_fact",
+    "text": "Philippe Guénin, membre du comité départemental de la Confédération paysanne, critique l’artificialisation de terres agricoles destinées au campus Google et met en doute les promesses d’emploi.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-05-30",
+    "accessed_at": null,
+    "location": "Article Le Monde, intervention de l’éleveur",
+    "xlsx_row": 27,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0049",
+    "type": "reported_fact",
+    "text": "Marie-Claire Eustache, Romane Harmel-Samarcq et Jean-Louis Laure sont les trois garants CNDP du campus Google et de son raccordement, distincts des garantes de la liaison nationale.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Dernier paragraphe « Des garants indépendants »",
+    "xlsx_row": 26,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0050",
+    "type": "reported_fact",
+    "text": "La promesse de vente foncière est signée le 5 juillet 2025 entre Châteauroux Métropole et Tricolore Computing sur environ 195 ha ; le délai contractuel de signature définitive va jusqu’en 2030.",
+    "source_id": "source_0023",
+    "source_ids": [
+      "source_0023"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Section promesse de vente",
+    "xlsx_row": 24,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0051",
+    "type": "reported_fact",
+    "text": "L’article de contexte sur l’éolien du nord de l’Indre relie le renforcement du réseau Éguzon–Marmagne à la croissance des demandes de raccordement de production renouvelable, notamment photovoltaïque.",
+    "source_id": "source_0024",
+    "source_ids": [
+      "source_0024"
+    ],
+    "source_status": "to_qualify_aggregator",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Fin de l’article, contexte énergétique ; ne qualifie pas les opposants éoliens sur la ligne",
+    "xlsx_row": 28,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0052",
+    "type": "reported_fact",
+    "text": "Une révision du projet Google présentée en octobre 2026 réduit le scénario de dix à six-huit bâtiments pour préserver des zones humides et haies, tout en maintenant environ 195 ha d’emprise envisagée.",
+    "source_id": "source_0025",
+    "source_ids": [
+      "source_0025"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-10-15",
+    "accessed_at": null,
+    "location": "Présentation du projet actualisé",
+    "xlsx_row": 8,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0053",
+    "type": "reported_fact",
+    "text": "L’article ICI précise que le choix d’un nouveau corridor pourrait retirer les anciens pylônes de communes et donc modifier l’assiette de la taxe communale, sans confirmer qu’un tracé précis a été retenu.",
+    "source_id": "source_0007",
+    "source_ids": [
+      "source_0007"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Premiers paragraphes",
+    "xlsx_row": 14,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0054",
+    "type": "reported_fact",
+    "text": "Les variantes sont discutées avant choix du fuseau et les garantes demandent notamment une diffusion effective de l’information auprès des publics ruraux, collectivités et exploitants.",
+    "source_id": "source_0002",
+    "source_ids": [
+      "source_0002"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-07-22",
+    "accessed_at": null,
+    "location": "Pages 2–3, partie Éguzon–Marmagne",
+    "xlsx_row": 18,
+    "certainty": "high"
+  }
+]

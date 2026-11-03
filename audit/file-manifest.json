@@ -1,0 +1,126 @@
+{
+  "generated_on": "2026-11-03",
+  "source_xlsx": "Cartographie Eguzon.xlsx",
+  "project": "Éguzon–Marmagne",
+  "visual_parity_chaingy_model": {
+    "assets/css/cards.css": true,
+    "assets/css/common.css": true,
+    "assets/css/network.css": true,
+    "assets/js/cards.js": true,
+    "assets/js/data-loader.js": true,
+    "assets/js/network.js": true
+  },
+  "file_count_excluding_manifest": 22,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 25,
+      "sha256": "ed163aad2b86e9116177f34046b395f764d7177c68d7debb957360f2c758dbbb"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4046,
+      "sha256": "097d37c243b4c9b2a18c116e6c988bb03aeb3a57e5e10c7e1c98a4cb02d8d620"
+    },
+    {
+      "path": "apps/cards/index.html",
+      "bytes": 1664,
+      "sha256": "be49a4ab2d74567afe64f3fc319582b2869dbe96e6289ddb42fa8adad1e8614a"
+    },
+    {
+      "path": "apps/network/index.html",
+      "bytes": 860,
+      "sha256": "8c60025991cc7fd58d3114a83c1bc5533871d0552a29315756659630aed1a8ef"
+    },
+    {
+      "path": "assets/css/cards.css",
+      "bytes": 2971,
+      "sha256": "0775327ec38ff963d3da5c3c5177bbd6c59f3680194ca05895958b8c56dda0e1"
+    },
+    {
+      "path": "assets/css/common.css",
+      "bytes": 897,
+      "sha256": "f0580a847e897e4877308ce33cf81cc6a62c0115fc9d6e93152b85c9992f0892"
+    },
+    {
+      "path": "assets/css/network.css",
+      "bytes": 3535,
+      "sha256": "98a104cefde4df7d74eb17da9affed7bf9f7669bcc045690a4fd624eacf8facf"
+    },
+    {
+      "path": "assets/js/cards.js",
+      "bytes": 5326,
+      "sha256": "92ec25bd73b3415bf8804cbd2f54876fe97cd74a00f9d0a64b1b0d6a5db6093f"
+    },
+    {
+      "path": "assets/js/data-loader.js",
+      "bytes": 1729,
+      "sha256": "f2abe67ee9a2784d45aa4054a732e62251d83f62646f4a1df61327e8de108025"
+    },
+    {
+      "path": "assets/js/network.js",
+      "bytes": 10271,
+      "sha256": "2d3f092fa65966a3731c4ca2da2be850d494ac06531c1c803d24bc920dca438e"
+    },
+    {
+      "path": "audit/corpus-review.json",
+      "bytes": 26504,
+      "sha256": "1ac65ef968bc7c32642f55c733c2cc3fafae14db0361acfd8f4fb8bde169ddae"
+    },
+    {
+      "path": "audit/qa-report.json",
+      "bytes": 573,
+      "sha256": "d47e7424d988ac8a16fb3f91730bb3867a173260eedc616c66fe25737b79cda6"
+    },
+    {
+      "path": "audit/validation.json",
+      "bytes": 450,
+      "sha256": "f6d0f305dc8ea122f1a203c7ea4715f5f9e1db25976634a236bdedd22ff1fb69"
+    },
+    {
+      "path": "config/taxonomy.json",
+      "bytes": 2333,
+      "sha256": "10b30f35d2d3e6e7252b596ab8e66d564e7d997cf8db168b3d48915f2a00edc7"
+    },
+    {
+      "path": "data/actors.json",
+      "bytes": 34722,
+      "sha256": "f3ab4ebe5999b800c2f409f3269823169dd269116be7d49a98a9ca3169e7d47a"
+    },
+    {
+      "path": "data/claims.json",
+      "bytes": 3555,
+      "sha256": "58dc9e3975bf8479afaff678a8d953c7c5374fce58cac13a823a6a907b222c5d"
+    },
+    {
+      "path": "data/evidence.json",
+      "bytes": 31516,
+      "sha256": "ad6deb08c2c5fb126af59a03b364fb94a1dfe9f5f429639c83bc6655defaf9f8"
+    },
+    {
+      "path": "data/meta.json",
+      "bytes": 12742,
+      "sha256": "25de1a03238e1c72e0e8d086a4425c608e602b4d30e36f775407ee53fe39d835"
+    },
+    {
+      "path": "data/relations.json",
+      "bytes": 37613,
+      "sha256": "a289e69135f2e859379852cfda0f547f44bdf0e360efec7191a0cd34fb1c6d0b"
+    },
+    {
+      "path": "data/sources.json",
+      "bytes": 17899,
+      "sha256": "af84457f16628756e50b6981ff294559ded6cbc274840392fb60e49f2ceca1ed"
+    },
+    {
+      "path": "index.html",
+      "bytes": 787,
+      "sha256": "9f413f524bbc0b7aa24c527ffc4bb2279aa2246077f42be1977a0006689abf88"
+    },
+    {
+      "path": "validate.py",
+      "bytes": 3971,
+      "sha256": "d2655f3d71449b65fb9a0d71bf5a5d78f6b89b3647b4bbb63df2b4b3cdebc221"
+    }
+  ]
+}

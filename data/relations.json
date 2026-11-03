@@ -1,0 +1,1369 @@
+[
+  {
+    "id": "relation_0001",
+    "source_id": "actor_0001",
+    "target_id": "project_eguzon_marmagne",
+    "type": "leads",
+    "summary": "RTE est maître d’ouvrage du projet de ligne aérienne Éguzon–Marmagne.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001",
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0002",
+    "source_id": "actor_0002",
+    "target_id": "actor_0001",
+    "type": "represents",
+    "summary": "Cyril Mounier intervient comme responsable de projet RTE.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002",
+      "evidence_0013"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0003",
+    "source_id": "actor_0003",
+    "target_id": "actor_0001",
+    "type": "represents",
+    "summary": "Olivier Brisset intervient pour RTE comme responsable de concertation.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0004",
+    "source_id": "actor_0004",
+    "target_id": "actor_0005",
+    "type": "represents",
+    "summary": "Jean-Yves Lebrec représente le cabinet d’assistance à maîtrise d’ouvrage CAMPARDOU.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0005",
+    "source_id": "actor_0005",
+    "target_id": "actor_0001",
+    "type": "institutional_link",
+    "summary": "CAMPARDOU intervient comme assistant à maîtrise d’ouvrage de RTE lors de la présentation à la CNDP.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0006",
+    "source_id": "actor_0006",
+    "target_id": "project_eguzon_marmagne",
+    "type": "institutional_link",
+    "summary": "La CNDP valide le dossier et les modalités de la concertation de la ligne, sans autoriser sa construction.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0007",
+    "source_id": "actor_0007",
+    "target_id": "actor_0006",
+    "type": "represents",
+    "summary": "Garante CNDP désignée pour la concertation préalable sur la ligne Éguzon–Marmagne.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0008",
+    "source_id": "actor_0007",
+    "target_id": "project_eguzon_marmagne",
+    "type": "institutional_link",
+    "summary": "Supervise la qualité de la concertation préalable de la ligne, sans approuver de tracé.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0009",
+    "source_id": "actor_0008",
+    "target_id": "actor_0006",
+    "type": "represents",
+    "summary": "Garante CNDP désignée pour la concertation préalable sur la ligne Éguzon–Marmagne.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0010",
+    "source_id": "actor_0008",
+    "target_id": "project_eguzon_marmagne",
+    "type": "institutional_link",
+    "summary": "Supervise la qualité de la concertation préalable de la ligne, sans approuver de tracé.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0011",
+    "source_id": "actor_0009",
+    "target_id": "actor_0006",
+    "type": "represents",
+    "summary": "Marc Papinutti préside la CNDP et signe sa décision du 22 juillet 2026.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0012",
+    "source_id": "actor_0010",
+    "target_id": "actor_0001",
+    "type": "institutional_link",
+    "summary": "Comparaison des fuseaux sur les enjeux agricoles avec les chambres d’agriculture.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0013",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0052",
+    "type": "related_to",
+    "summary": "Le projet prévoit la dépose partielle de l’ancienne ligne aérienne 225 kV.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0014",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0053",
+    "type": "related_to",
+    "summary": "Le projet relie le poste électrique d’Éguzon dans l’Indre.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0015",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0054",
+    "type": "related_to",
+    "summary": "Le projet rejoint le poste électrique de Marmagne dans le Cher.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0016",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0055",
+    "type": "related_to",
+    "summary": "Huit hypothèses de corridor sont soumises à la concertation préalable.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0011",
+      "evidence_0003"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0017",
+    "source_id": "actor_0055",
+    "target_id": "actor_0056",
+    "type": "related_to",
+    "summary": "Zone de convergence des hypothèses de fuseau à l’est de Châteauroux près d’Ozans.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0018",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0051",
+    "type": "related_to",
+    "summary": "Renforcement justifié par le développement des productions décarbonées et des usages électrifiés.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0013",
+      "evidence_0051"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0019",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0062",
+    "type": "related_to",
+    "summary": "La concertation est une étape de procédure, non une DUP accordée.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001",
+      "evidence_0008"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0020",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0063",
+    "type": "related_to",
+    "summary": "Les effets territoriaux des différents corridors restent à comparer avant de choisir le fuseau.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0011",
+      "evidence_0003"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0021",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0060",
+    "type": "related_to",
+    "summary": "Des enjeux d’impact agricole et environnemental sont étudiés avec les organismes concernés.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0022",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0061",
+    "type": "related_to",
+    "summary": "La ligne augmente les capacités de transit électrique du réseau national, sans dimensionner seule les besoins de Google.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0009",
+      "evidence_0020"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0023",
+    "source_id": "actor_0011",
+    "target_id": "project_eguzon_marmagne",
+    "type": "related_to",
+    "summary": "Les choix de fuseaux peuvent affecter la fiscalité des pylônes de Chouday.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0024",
+    "source_id": "actor_0012",
+    "target_id": "actor_0011",
+    "type": "represents",
+    "summary": "Carole Branchereau est maire de Chouday.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0025",
+    "source_id": "actor_0012",
+    "target_id": "project_eguzon_marmagne",
+    "type": "position_on",
+    "summary": "Carole Branchereau défend le recours à l’axe existant plutôt qu’une autre implantation.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0026",
+    "source_id": "actor_0011",
+    "target_id": "actor_0059",
+    "type": "related_to",
+    "summary": "La commune pourrait perdre environ 52 000 € annuels si les pylônes historiques disparaissent.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0027",
+    "source_id": "actor_0013",
+    "target_id": "actor_0059",
+    "type": "related_to",
+    "summary": "Risque conditionnel de perte de recette d’environ 30 000 € par an.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0028",
+    "source_id": "actor_0014",
+    "target_id": "actor_0059",
+    "type": "related_to",
+    "summary": "Risque conditionnel de perte de recette d’environ 6 000 € par an.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0017"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0029",
+    "source_id": "actor_0059",
+    "target_id": "project_eguzon_marmagne",
+    "type": "related_to",
+    "summary": "Le choix du nouveau passage peut déplacer la recette de taxe pylônes entre communes.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0053"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0030",
+    "source_id": "actor_0015",
+    "target_id": "project_eguzon_marmagne",
+    "type": "related_to",
+    "summary": "Réunion d’information RTE signalée à Saint-Florent-sur-Cher ; détails partiellement accessibles.",
+    "certainty": "low",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0031",
+    "source_id": "actor_0016",
+    "target_id": "project_eguzon_marmagne",
+    "type": "related_to",
+    "summary": "Réunion RTE annoncée à Neuvy-Saint-Sépulchre le 4 novembre 2026.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0032",
+    "source_id": "actor_0017",
+    "target_id": "actor_0053",
+    "type": "related_to",
+    "summary": "Le poste d’Éguzon se trouve dans l’Indre, près d’Éguzon-Chantôme.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0033",
+    "source_id": "actor_0018",
+    "target_id": "actor_0054",
+    "type": "related_to",
+    "summary": "Le poste de Marmagne est situé dans le Cher.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0034",
+    "source_id": "actor_0019",
+    "target_id": "actor_0057",
+    "type": "related_to",
+    "summary": "L’agglomération facilite l’implantation Google à Ozans ; projet distinct du renforcement de ligne RTE.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0050"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0035",
+    "source_id": "actor_0020",
+    "target_id": "actor_0019",
+    "type": "represents",
+    "summary": "Gil Avérous préside Châteauroux Métropole.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0029",
+      "evidence_0032"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0036",
+    "source_id": "actor_0020",
+    "target_id": "project_eguzon_marmagne",
+    "type": "supports",
+    "summary": "Gil Avérous soutient la nécessité du renforcement du réseau national, indépendamment du débat sur Google.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0031"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0037",
+    "source_id": "actor_0021",
+    "target_id": "actor_0057",
+    "type": "leads",
+    "summary": "Google porte le projet envisagé de campus de données d’Ozans.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0021",
+      "evidence_0034"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0038",
+    "source_id": "actor_0022",
+    "target_id": "actor_0021",
+    "type": "institutional_link",
+    "summary": "Tricolore Computing est une filiale de Google citée dans le dossier Ozans.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0039",
+    "source_id": "actor_0023",
+    "target_id": "actor_0021",
+    "type": "institutional_link",
+    "summary": "Violet Computing est une filiale de Google citée dans le dossier Ozans.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0040",
+    "source_id": "actor_0022",
+    "target_id": "actor_0019",
+    "type": "institutional_link",
+    "summary": "Promesse de vente foncière entre Tricolore Computing et Châteauroux Métropole.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0050"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0041",
+    "source_id": "actor_0024",
+    "target_id": "actor_0021",
+    "type": "represents",
+    "summary": "Sébastien Missoffe est directeur général de Google France.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0034"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0042",
+    "source_id": "actor_0057",
+    "target_id": "actor_0056",
+    "type": "related_to",
+    "summary": "Le campus potentiel se situe dans la ZAC d’Ozans à Étrechet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0043",
+    "source_id": "actor_0057",
+    "target_id": "actor_0058",
+    "type": "related_to",
+    "summary": "Le campus requiert ses propres ouvrages de raccordement dont l’instruction est distincte.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0022",
+      "evidence_0020"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0044",
+    "source_id": "actor_0001",
+    "target_id": "actor_0058",
+    "type": "leads",
+    "summary": "RTE intervient comme porteur des ouvrages de raccordement électriques du projet Ozans.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0020",
+      "evidence_0022"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0045",
+    "source_id": "actor_0058",
+    "target_id": "project_eguzon_marmagne",
+    "type": "related_to",
+    "summary": "Les ouvrages Google sont associés au contexte régional de la ligne nationale mais possèdent une autre concertation et leur propre phasage.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0020",
+      "evidence_0026"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0046",
+    "source_id": "actor_0058",
+    "target_id": "actor_0061",
+    "type": "related_to",
+    "summary": "120 MW initialement ; 300 MW additionnels puis capacité future possible de 1 200 MW, distincts des 5 400 MW du transit de la ligne.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0026",
+      "evidence_0009"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0047",
+    "source_id": "actor_0025",
+    "target_id": "actor_0057",
+    "type": "institutional_link",
+    "summary": "Le conseil communautaire adopte une délibération relative à l’aire d’étude du raccordement Google, par 49 voix contre 3.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0048",
+    "source_id": "actor_0027",
+    "target_id": "actor_0025",
+    "type": "criticizes",
+    "summary": "Vote défavorable à la délibération concernant le raccordement Google, sans preuve d’opposition globale à la ligne RTE.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0049",
+    "source_id": "actor_0028",
+    "target_id": "actor_0025",
+    "type": "criticizes",
+    "summary": "Vote défavorable à la délibération concernant le raccordement Google, sans preuve d’opposition globale à la ligne RTE.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0050",
+    "source_id": "actor_0029",
+    "target_id": "actor_0025",
+    "type": "criticizes",
+    "summary": "Vote défavorable à la délibération concernant le raccordement Google, sans preuve d’opposition globale à la ligne RTE.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0051",
+    "source_id": "actor_0027",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "L’élu critique l’ampleur du campus et les conséquences électriques et foncières.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0033"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0052",
+    "source_id": "actor_0026",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "Jérémie Godet dénonce le bilan territorial de l’implantation Google.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0037"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0053",
+    "source_id": "actor_0026",
+    "target_id": "project_eguzon_marmagne",
+    "type": "position_on",
+    "summary": "Interroge l’allocation future de l’électricité de la ligne entre Google et les autres industries.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0037"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0054",
+    "source_id": "actor_0042",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "Le PS de l’Indre critique le projet Google et ses effets territoriaux.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0055",
+    "source_id": "actor_0042",
+    "target_id": "project_eguzon_marmagne",
+    "type": "position_on",
+    "summary": "Le PS questionne l’intérêt public de la liaison si elle ne bénéficie qu’à Google ; il n’en demande pas l’abandon.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0056",
+    "source_id": "actor_0038",
+    "target_id": "actor_0057",
+    "type": "opposes",
+    "summary": "Le collectif organise des actions et une pétition contre le campus Google.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0035",
+      "evidence_0038"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0057",
+    "source_id": "actor_0038",
+    "target_id": "actor_0065",
+    "type": "related_to",
+    "summary": "Le collectif participe à la mobilisation contre le projet Google, sans position globale sur la ligne nationale.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0058",
+    "source_id": "actor_0039",
+    "target_id": "actor_0038",
+    "type": "represents",
+    "summary": "Raphaël Tillie est présenté comme représentant du collectif Ozans dire non.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0059",
+    "source_id": "actor_0040",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "La Confédération paysanne apparaît dans les critiques agricoles contre l’artificialisation du site d’Ozans.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0048"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0060",
+    "source_id": "actor_0041",
+    "target_id": "actor_0040",
+    "type": "represents",
+    "summary": "Philippe Guénin est membre du comité départemental de la Confédération paysanne.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0048"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0061",
+    "source_id": "actor_0041",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "Critique l’artificialisation agricole et les promesses d’emploi du campus Google.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0048"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0062",
+    "source_id": "actor_0035",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "Conteste les annonces d’emplois du campus Google.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0039"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0063",
+    "source_id": "actor_0036",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "Critique l’emprise de Google au nom de la souveraineté numérique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0040"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0064",
+    "source_id": "actor_0036",
+    "target_id": "actor_0017",
+    "type": "represents",
+    "summary": "François Avisseau est maire d’Éguzon-Chantôme.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0040"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0065",
+    "source_id": "actor_0037",
+    "target_id": "actor_0057",
+    "type": "supports",
+    "summary": "Le maire de Mâron estime les usages de l’IA indispensables et ne se dit pas préoccupé par le campus.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0045"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0066",
+    "source_id": "actor_0030",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "Membre de l’équipe municipale démissionnaire en raison de la gouvernance du projet Google à Étrechet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0043"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0067",
+    "source_id": "actor_0031",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "Membre de l’équipe municipale démissionnaire en raison de la gouvernance du projet Google à Étrechet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0068",
+    "source_id": "actor_0032",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "Membre de l’équipe municipale démissionnaire en raison de la gouvernance du projet Google à Étrechet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0069",
+    "source_id": "actor_0033",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "Membre de l’équipe municipale démissionnaire en raison de la gouvernance du projet Google à Étrechet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0070",
+    "source_id": "actor_0034",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "Membre de l’équipe municipale démissionnaire en raison de la gouvernance du projet Google à Étrechet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0071",
+    "source_id": "actor_0031",
+    "target_id": "actor_0064",
+    "type": "related_to",
+    "summary": "Demande des études contradictoires sur l’eau, les nuisances et le bilan environnemental.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0041"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0072",
+    "source_id": "actor_0043",
+    "target_id": "actor_0057",
+    "type": "opposes",
+    "summary": "Collectif local de contestation du campus Google.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0073",
+    "source_id": "actor_0044",
+    "target_id": "actor_0043",
+    "type": "represents",
+    "summary": "Louis Collin est cité comme fondateur de Stop data center 36.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0074",
+    "source_id": "actor_0045",
+    "target_id": "actor_0057",
+    "type": "criticizes",
+    "summary": "Collectif contestant l’usage du foncier d’Ozans et la gouvernance locale.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0075",
+    "source_id": "actor_0046",
+    "target_id": "actor_0045",
+    "type": "represents",
+    "summary": "Stéphanie Mercier participe à la création du collectif Les Citoyens du Berry.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0076",
+    "source_id": "actor_0047",
+    "target_id": "actor_0045",
+    "type": "represents",
+    "summary": "Michaël Bruneau cofonde le collectif Les Citoyens du Berry.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0046"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0077",
+    "source_id": "actor_0057",
+    "target_id": "actor_0064",
+    "type": "related_to",
+    "summary": "Consommation d’eau, chaleur fatale, foncier et nuisance sont débattus pour le campus, non pour la ligne nationale.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0030",
+      "evidence_0037"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0078",
+    "source_id": "actor_0057",
+    "target_id": "actor_0065",
+    "type": "related_to",
+    "summary": "Les contestations locales décrites ciblent l’implantation Google et ses raccordements.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0035",
+      "evidence_0038"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0079",
+    "source_id": "actor_0048",
+    "target_id": "actor_0006",
+    "type": "represents",
+    "summary": "Garant CNDP désigné pour le projet Google/Ozans, pas la concertation Éguzon–Marmagne.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0049"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0080",
+    "source_id": "actor_0048",
+    "target_id": "actor_0057",
+    "type": "institutional_link",
+    "summary": "Accompagne la concertation Google/Ozans du 2 novembre 2026 au 10 janvier 2027.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0024"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0081",
+    "source_id": "actor_0049",
+    "target_id": "actor_0006",
+    "type": "represents",
+    "summary": "Garant CNDP désigné pour le projet Google/Ozans, pas la concertation Éguzon–Marmagne.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0049"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0082",
+    "source_id": "actor_0049",
+    "target_id": "actor_0057",
+    "type": "institutional_link",
+    "summary": "Accompagne la concertation Google/Ozans du 2 novembre 2026 au 10 janvier 2027.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0024"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0083",
+    "source_id": "actor_0050",
+    "target_id": "actor_0006",
+    "type": "represents",
+    "summary": "Garant CNDP désigné pour le projet Google/Ozans, pas la concertation Éguzon–Marmagne.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0049"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0084",
+    "source_id": "actor_0050",
+    "target_id": "actor_0057",
+    "type": "institutional_link",
+    "summary": "Accompagne la concertation Google/Ozans du 2 novembre 2026 au 10 janvier 2027.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0024"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0085",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0066",
+    "type": "documented_by",
+    "summary": "Les informations du corpus sont attribuées au média ou au document d’origine indiqué.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0015",
+      "evidence_0013"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0086",
+    "source_id": "actor_0057",
+    "target_id": "actor_0067",
+    "type": "documented_by",
+    "summary": "Les informations du corpus sont attribuées au média ou au document d’origine indiqué.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0087",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0068",
+    "type": "documented_by",
+    "summary": "Les informations du corpus sont attribuées au média ou au document d’origine indiqué.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0088",
+    "source_id": "project_eguzon_marmagne",
+    "target_id": "actor_0069",
+    "type": "documented_by",
+    "summary": "Les informations du corpus sont attribuées au média ou au document d’origine indiqué.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0089",
+    "source_id": "actor_0065",
+    "target_id": "actor_0070",
+    "type": "documented_by",
+    "summary": "Les informations du corpus sont attribuées au média ou au document d’origine indiqué.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "relation_0090",
+    "source_id": "actor_0057",
+    "target_id": "actor_0071",
+    "type": "documented_by",
+    "summary": "Les informations du corpus sont attribuées au média ou au document d’origine indiqué.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  }
+]

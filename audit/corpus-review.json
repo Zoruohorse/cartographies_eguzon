@@ -1,0 +1,525 @@
+[
+  {
+    "xlsx_row": 2,
+    "resource_id": "1f52491a-e86d-48a2-a9cd-07fb9089363b",
+    "title": "Google à Étrechet : la concertation sur son raccordement électrique de 120 MW s’ouvre",
+    "url_from_file": "https://lenergeek.com/2026/11/02/google-etrechet-rte-concertation-raccordement-120mw-20261102-1836/",
+    "domain": "lenergeek.com",
+    "discovered_at": "2026-11-02",
+    "decision": "used_as_evidence",
+    "source_id": "source_0012",
+    "evidence_ids": [
+      "evidence_0024",
+      "evidence_0025"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 3,
+    "resource_id": "11eabf09-5563-4001-90bb-4e686c02edad",
+    "title": "Projet de data center Google à Châteauroux : les contributions sont ouvertes jusqu'au 10 janvier",
+    "url_from_file": "https://www.ici.fr/centre-val-de-loire/indre-36/chateauroux/projet-de-data-center-google-a-chateauroux-les-contributions-sont-ouvertes-jusqu-au-10-janvier-9088214",
+    "domain": "ici.fr",
+    "discovered_at": "2026-11-02",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Ressource examinée ; contenu redondant, contextuel ou insuffisant pour créer un objet métier distinct et prouvé."
+  },
+  {
+    "xlsx_row": 4,
+    "resource_id": "1b2be193-927f-45df-a408-5d13e7e06a9f",
+    "title": "Retombées pour toute l’Agglo de Châteauroux, garanties d’emplois, mesures des températures : Gil Avérous brandit de nouveaux arguments pour le projet de data center de Google",
+    "url_from_file": "https://www.lanouvellerepublique.fr/indre/commune/le-poinconnet/retombees-pour-toute-l-agglo-de-chateauroux-garanties-d-emplois-mesures-des-temperatures-gil-averous-brandit-de-nouveaux-arguments-pour-le-projet-de-data-center-de-google-1793301098",
+    "domain": "lanouvellerepublique.fr",
+    "discovered_at": "2026-10-30",
+    "decision": "used_as_evidence",
+    "source_id": "source_0013",
+    "evidence_ids": [
+      "evidence_0029",
+      "evidence_0030"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 5,
+    "resource_id": "d177089b-e820-436c-8a4f-f6c697c34b6f",
+    "title": "Saint-Florent-sur-Cher. Pourquoi la future liaison électrique Eguzon-Marmagne fait débat : entre data center et soucis de GPS agricole",
+    "url_from_file": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZ2VhX05tYk0xMUhkU1FKZzBvUWxkRWwzb0JFcFlKUHZFQmNneHoxTzBxZjFGU0ZiS2ZLdEpWRGRRTW1JV0hkdzBXTnlHSUl0cncyWDV3TW5UWE8yMklqV2p3VW1nMFpIaC1GNmRvYU1VV0RjbjJZbHQxc0oyQ0lTTzZNZ21sYXFCVFFVR1dXM25BVVBuRV9xQ1U4SkVSd0RTNkdNNmdrMWN5SUY4c3FFRnVtcV9xTkQ4WU54N0dGNS12ME54YnA4OThzanQtYWlVQ28tQ012VTMzdFZwUjRqZnkyckU4WmpjZmlnWGNGbFd0MnRuRG9yaWlLdGNiNkFSRkpQRg?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "domain": "news.google.com",
+    "discovered_at": "2026-10-26",
+    "decision": "used_as_evidence",
+    "source_id": "source_0008",
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 6,
+    "resource_id": "41b2ba54-748a-4015-969d-c18661ade1fe",
+    "title": "Data center de Google et nouvelle ligne à haute tension dans l'Indre : les dates pour donner votre avis",
+    "url_from_file": "https://selectra.info/energie/actualites/marche/google-data-center-indre-ligne-400-kv-communes",
+    "domain": "selectra.info",
+    "discovered_at": "2026-10-21",
+    "decision": "used_as_evidence",
+    "source_id": "source_0004",
+    "evidence_ids": [
+      "evidence_0009",
+      "evidence_0010",
+      "evidence_0011",
+      "evidence_0026"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 7,
+    "resource_id": "2212c6a2-8ba7-46ab-964f-154cc811ce93",
+    "title": "Mobilisation du 17 octobre : près de Châteauroux, les datas centers de la colère",
+    "url_from_file": "https://www.marianne.net/societe/mobilisation-du-17-octobre-a-chateauroux-les-datas-centers-de-la-colere",
+    "domain": "marianne.net",
+    "discovered_at": "2026-10-18",
+    "decision": "used_as_evidence",
+    "source_id": "source_0018",
+    "evidence_ids": [
+      "evidence_0038",
+      "evidence_0039",
+      "evidence_0040"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 8,
+    "resource_id": "96de2174-3e80-4879-9cc2-321b120ffdf9",
+    "title": "Où en est le projet de data center XXL de Google à Châteauroux ?",
+    "url_from_file": "https://dcmag.fr/ou-en-est-le-projet-de-data-center-xxl-de-google-a-chateauroux/",
+    "domain": "dcmag.fr",
+    "discovered_at": "2026-10-15",
+    "decision": "used_as_evidence",
+    "source_id": "source_0025",
+    "evidence_ids": [
+      "evidence_0052"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 9,
+    "resource_id": "90a42f84-0225-4169-a8cc-7dbf7b61e3b4",
+    "title": "Polémique autour du projet de data center géant de Google dans l’Indre",
+    "url_from_file": "https://www.electroniques.biz/data-centers-ia/polemique-autour-du-projet-de-data-center-geant-de-google-dans-lindre/",
+    "domain": "electroniques.biz",
+    "discovered_at": "2026-10-13",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Article de synthèse du campus Google : faits de contexte repris et mieux documentés par lignes 10, 23, 30 ; pas de nouvelle position sur la ligne."
+  },
+  {
+    "xlsx_row": 10,
+    "resource_id": "9bc2acba-221e-44ad-94cc-d53724ed8acc",
+    "title": "“Jusqu’à huit bâtiments sur vingt ans” : Google précise son projet de data center géant près de Châteauroux",
+    "url_from_file": "https://www.usine-digitale.fr/informatique/data-centers/jusqua-huit-batiments-sur-vingt-ans-google-precise-son-projet-de-data-center-geant-pres-de-chateauroux.OEC3TUWGYJC5TKXZWSWYMHQFUU.html",
+    "domain": "usine-digitale.fr",
+    "discovered_at": "2026-10-12",
+    "decision": "used_as_evidence",
+    "source_id": "source_0011",
+    "evidence_ids": [
+      "evidence_0021",
+      "evidence_0022",
+      "evidence_0023",
+      "evidence_0028"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 11,
+    "resource_id": "6d181d58-53da-4e26-a8b1-993615937ac7",
+    "title": "« Nos villages ne sont pas des usines à données » : au cœur de la rébellion contre les data centers de Google dans le Berry",
+    "url_from_file": "https://www.nouvelobs.com/economie/20261008.OBS119033/nos-villages-ne-sont-pas-des-usines-a-donnees-au-c-ur-de-la-rebellion-contre-les-data-centers-de-google-dans-le-berry.html?_staled_=",
+    "domain": "nouvelobs.com",
+    "discovered_at": "2026-10-12",
+    "decision": "used_as_evidence",
+    "source_id": "source_0019",
+    "evidence_ids": [
+      "evidence_0041",
+      "evidence_0042",
+      "evidence_0043",
+      "evidence_0045",
+      "evidence_0046"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 12,
+    "resource_id": "31d2cd6c-39f8-4e11-9e13-4f0e3e00e140",
+    "title": "Ligne à très haute tension Éguzon-Marmagne : RTE vient présenter le projet à Neuvy-Saint-Sépulchre",
+    "url_from_file": "https://www.lanouvellerepublique.fr/indre/commune/neuvy-saint-sepulchre/ligne-a-tres-haute-tension-eguzon-marmagne-rte-vient-presenter-le-projet-a-neuvy-saint-sepulchre-1791554043",
+    "domain": "lanouvellerepublique.fr",
+    "discovered_at": "2026-10-12",
+    "decision": "used_as_evidence",
+    "source_id": "source_0009",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 13,
+    "resource_id": "59611b01-7233-4520-afaa-7b56c136d3f5",
+    "title": "« C’est gonflé de votre part ! » : le data center débarque à l’improviste au conseil communautaire de Châteauroux Métropole",
+    "url_from_file": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUE9aU2J2Y0I2ZkowRl9ISk5HejhXd3hWTU5EZFhxSDlWLUo3VElZaEJEcGpJWlNCUml4aF9jdVVmdGZzTDM0WHM5RWtsdVJmWTZmYUl1Q2p4UHNMOFZzcnZ6WDc0WmEyVmk2R1RjVU94NGhTZERmdS1jbkxwR05DYUJQa1lxS3RXenlud0F3RmlhV2Y2WnZZUmRfOTZHTEhpUHVNOFlDY29kRmxaSFdFYk5TbHNvaHpJdktBaVJyU3RaeTBCdkRjODYySFg2U19TckxGTjRJQkVRRUxseWFDMlNvTmlpUlBhd3hvanI3ZGVteXllV2c4WU5oUGFNR0dkY0tHeQ?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "domain": "news.google.com",
+    "discovered_at": "2026-09-30",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Extrait payant très limité sur la controverse en conseil communautaire ; faits et vote vérifiables dans la ligne 22."
+  },
+  {
+    "xlsx_row": 14,
+    "resource_id": "fe545cae-cf27-4c2d-acf9-969943681443",
+    "title": "\"40% de nos ressources\" : dans l'Indre, des communes s'inquiètent du changement de tracé d'une ligne haute tension",
+    "url_from_file": "https://www.ici.fr/centre-val-de-loire/indre-36/40-de-nos-ressources-dans-l-indre-des-communes-s-inquietent-du-changement-de-trace-d-une-ligne-haute-tension-4554241",
+    "domain": "ici.fr",
+    "discovered_at": "2026-09-30",
+    "decision": "used_as_evidence",
+    "source_id": "source_0007",
+    "evidence_ids": [
+      "evidence_0015",
+      "evidence_0016",
+      "evidence_0017",
+      "evidence_0053"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 15,
+    "resource_id": "5d263cf3-eb03-444f-9dcb-ef080444b814",
+    "title": "Lancement de la concertation publique pour le projet de ligne électrique Éguzon-Marmagne",
+    "url_from_file": "https://www.leberry.fr/marmagne-18500/economie/lancement-de-la-concertation-publique-pour-le-projet-de-ligne-electrique-eguzon-marmagne_15054946/",
+    "domain": "leberry.fr",
+    "discovered_at": "2026-09-30",
+    "decision": "used_as_evidence",
+    "source_id": "source_0005",
+    "evidence_ids": [
+      "evidence_0012"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 16,
+    "resource_id": "8543b59d-52a6-4c6d-9ecf-6f4b3428bfae",
+    "title": "Data centers : ce que le projet de Google à Châteauroux dit de la méthode française",
+    "url_from_file": "https://www.blogdumoderateur.com/data-centers-projet-google-chateauroux-methode-francaise/",
+    "domain": "blogdumoderateur.com",
+    "discovered_at": "2026-09-25",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Long commentaire sur le modèle d’implantation numérique ; la description du projet est couverte par les documents ciblés 6, 10 et 30. Évite d’importer des faits étrangers au dossier et des comparaisons US."
+  },
+  {
+    "xlsx_row": 17,
+    "resource_id": "77d1e3ca-5122-4d43-9800-64dff6f94039",
+    "title": "\"On y perd largement\" : le conseiller régional Jérémie Godet dénonce le projet de Data Center Google à Châteauroux",
+    "url_from_file": "https://www.ici.fr/emissions/l-invite-de-ici-matin-berry/on-y-perd-largement-le-conseiller-regional-jeremie-godet-denonce-le-projet-de-data-center-google-a-chateauroux-7446059",
+    "domain": "ici.fr",
+    "discovered_at": "2026-09-17",
+    "decision": "used_as_evidence",
+    "source_id": "source_0017",
+    "evidence_ids": [
+      "evidence_0037"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 18,
+    "resource_id": "83e54cfd-1bba-4f74-a5ad-e33efb1f030b",
+    "title": "ponsable de l’instruction",
+    "url_from_file": "https://www.debatpublic.fr/sites/default/files/2026-09/CR%20s%C3%A9ance%20pl%C3%A9ni%C3%A8re%2022%20juillet%202026.pdf",
+    "domain": "debatpublic.fr",
+    "discovered_at": "2026-09-17",
+    "decision": "used_as_evidence",
+    "source_id": "source_0002",
+    "evidence_ids": [
+      "evidence_0002",
+      "evidence_0003",
+      "evidence_0004",
+      "evidence_0005",
+      "evidence_0006",
+      "evidence_0054"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 19,
+    "resource_id": "cf8fbd67-f553-4d23-8c67-6b1ed4809b2d",
+    "title": "Du rififi autour du data center de Google près de Châteauroux",
+    "url_from_file": "https://www.alouette.fr/rififi-data-center-google-chateauroux",
+    "domain": "alouette.fr",
+    "discovered_at": "2026-09-15",
+    "decision": "used_as_evidence",
+    "source_id": "source_0020",
+    "evidence_ids": [
+      "evidence_0044"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 20,
+    "resource_id": "64e93990-5e68-4a37-882c-d8327695f358",
+    "title": "Renforcement du réseau électrique entre Eguzon et Marmagne",
+    "url_from_file": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YTHVtbFZGcFdJekNOOUdPNHFiZWlPMXpSejlrWjg0aTB5dFVxa1VIMWh3bElfRWVLcnZpd1U2eHJfeDNCVHQyN1h4c1ZaSldNV3Q3VmtEd2NaazZGdW1ldUQtNEc0aDFwX0ZpRGNKOA?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "domain": "news.google.com",
+    "discovered_at": "2026-08-15",
+    "decision": "used_as_evidence",
+    "source_id": "source_0003",
+    "evidence_ids": [
+      "evidence_0007",
+      "evidence_0008"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 21,
+    "resource_id": "fac6044f-89a6-4126-af7a-aa6355d43a52",
+    "title": "Décision n° 2026/72/LIGNE THT EGUZON - MARMAGNE/2 du 22 juillet 2026 d'engager la concertation préalable relative au projet de création d'une ligne aérienne de transport d'électricité à 400 000 volts entre les postes électriques d'Eguzon (36) et de Marmag",
+    "url_from_file": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054500084",
+    "domain": "legifrance.gouv.fr",
+    "discovered_at": "2026-07-28",
+    "decision": "used_as_evidence",
+    "source_id": "source_0001",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 22,
+    "resource_id": "0bef0fb6-b339-4932-8012-9f5a8e68ee6e",
+    "title": "« On ne peut pas passer à côté de ça » : le débat sur le futur data center Google divise au conseil communautaire de Châteauroux",
+    "url_from_file": "https://www.lanouvellerepublique.fr/chateauroux/on-ne-peut-pas-passer-a-cote-de-ca-le-debat-sur-le-futur-data-center-google-divise-au-conseil-communautaire-de-chateauroux-1782919294",
+    "domain": "lanouvellerepublique.fr",
+    "discovered_at": "2026-07-01",
+    "decision": "used_as_evidence",
+    "source_id": "source_0014",
+    "evidence_ids": [
+      "evidence_0031",
+      "evidence_0032",
+      "evidence_0033"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 23,
+    "resource_id": "abfc375a-8eba-46f3-8d5f-0340dd3e55fa",
+    "title": "« Aucune décision définitive n’a encore été prise » : l’incertitude persiste autour du data center de Google à Châteauroux",
+    "url_from_file": "https://www.lanouvellerepublique.fr/indre/chateauroux-metropole/aucune-decision-definitive-n-a-encore-ete-prise-l-incertitude-persiste-autour-du-data-center-de-google-a-chateauroux-1782124257",
+    "domain": "lanouvellerepublique.fr",
+    "discovered_at": "2026-06-22",
+    "decision": "used_as_evidence",
+    "source_id": "source_0015",
+    "evidence_ids": [
+      "evidence_0034",
+      "evidence_0035"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 24,
+    "resource_id": "b72ee064-3d98-45a1-8fa2-e6102a69c5c6",
+    "title": "Data center de Google près de Châteauroux : le calendrier du projet se précise",
+    "url_from_file": "https://www.ici.fr/centre-val-de-loire/indre-36/etrechet/data-center-de-google-pres-de-chateauroux-le-calendrier-du-projet-se-precise-2648500",
+    "domain": "ici.fr",
+    "discovered_at": "2026-06-16",
+    "decision": "used_as_evidence",
+    "source_id": "source_0023",
+    "evidence_ids": [
+      "evidence_0050"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 25,
+    "resource_id": "564c7c62-36b1-40b8-a79e-7d8647d6b3f6",
+    "title": "Projet de data center à Ozans : le PS de l’Indre craint que le site ne devienne « une colonie numérique des États-Unis »",
+    "url_from_file": "https://www.lanouvellerepublique.fr/indre/chateauroux-metropole/projet-de-data-center-a-ozans-le-ps-de-l-indre-craint-que-le-site-ne-devienne-une-colonie-numerique-des-etats-unis-1780938166",
+    "domain": "lanouvellerepublique.fr",
+    "discovered_at": "2026-06-08",
+    "decision": "used_as_evidence",
+    "source_id": "source_0016",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 26,
+    "resource_id": "0d0927bd-363f-46e1-827e-632a606e3ac9",
+    "title": "Economie. Où en est le projet de data center Google à Châteauroux ?",
+    "url_from_file": "https://www.echoduberry.fr/actualite-35032-economie-ou-en-est-le-projet-de-data-center-google-a-chateauroux",
+    "domain": "echoduberry.fr",
+    "discovered_at": "2026-06-03",
+    "decision": "used_as_evidence",
+    "source_id": "source_0022",
+    "evidence_ids": [
+      "evidence_0049"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 27,
+    "resource_id": "91583d2e-ae92-4e22-a2b1-4a05b152c4b1",
+    "title": "Article Châteauroux Le Monde",
+    "url_from_file": "curebot://curebot/authoring/6958a4c0-fb4c-434b-ab2d-71e177a1b6b9",
+    "domain": "curebot",
+    "discovered_at": "2026-06-01",
+    "decision": "used_as_evidence",
+    "source_id": "source_0021",
+    "evidence_ids": [
+      "evidence_0047",
+      "evidence_0048"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 28,
+    "resource_id": "6c2e18eb-8e92-4c75-a53c-b1b2e61b18cd",
+    "title": "Entre saturation des paysages et transition énergétique, la difficile équation des parcs éoliens divise le Pays d’Issoudun et le nord de l’Indre",
+    "url_from_file": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPRzNxdWRQZGlpWm4zTXZPTFZ5TWI2Q2VrNGlKU1NUVGV4aHJVd3prRk5DQk1ZSkNzb1h0cE1KQ05qb2dJd1Y4ZkZXSDhvREdDLV9uazRSZzExTERaeHMteTF1TFAtNGhIY05RQVVqZ3ROU0E2aWFnRm1zemdQWnlydnozN1pRcHJJUVlYVUk4R1Z3VnNkeTc4RWhMbEdnMW9naWs1NlZ5UkhyUTBLOXRmQWJLWXNnR1BLWjBzNFF3cWw0bHkxZE1IR2J6NlZaeGp3a0VNYVplVDVoVy0tLXNqSm9XV2lCNXFGZ1dQQWRmZWFmcERsU3hHSmhGYXJWcnRvdkZ4M1hDeFd4Q2NSNEdpTWJIczlaN09UVmZhUDZBekI5Z2tiMWc?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "domain": "news.google.com",
+    "discovered_at": "2026-04-16",
+    "decision": "used_as_evidence",
+    "source_id": "source_0024",
+    "evidence_ids": [
+      "evidence_0051"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 29,
+    "resource_id": "832ce70b-218f-4021-a6d5-23dbf8f9da95",
+    "title": "Google presses ahead with plans for first data center in France",
+    "url_from_file": "https://www.datacenterdynamics.com/en/news/google-presses-ahead-with-plans-for-first-data-center-in-france/",
+    "domain": "datacenterdynamics.com",
+    "discovered_at": "2026-04-13",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Ressource examinée ; contenu redondant, contextuel ou insuffisant pour créer un objet métier distinct et prouvé."
+  },
+  {
+    "xlsx_row": 30,
+    "resource_id": "c2a39c3b-55b0-4887-b5ad-11b40624af87",
+    "title": "Data center \"Ozans-Châteauroux\" de Google et son raccordement électrique",
+    "url_from_file": "https://www.debatpublic.fr/data-center-ozans-chateauroux-de-google-et-son-raccordement-electrique-8996",
+    "domain": "debatpublic.fr",
+    "discovered_at": "2026-04-03",
+    "decision": "used_as_evidence",
+    "source_id": "source_0010",
+    "evidence_ids": [
+      "evidence_0020",
+      "evidence_0027"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 31,
+    "resource_id": "4a99ae33-8ab5-4596-b604-31845563c894",
+    "title": "Des propositions concrètes pour l'avenir de l'Indre",
+    "url_from_file": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3BzN3dVUy1EQWpMbHVkYTN6bU8wZ2kwcXZwVjVsekJxMld5Mjd3OWFkR3ZpZUx5dTgzamE4X3ZWY2N2TWZtQnVob1lvY2lDb3d6WXQ1eDBiSDhESXZQRElTYmdkamZWcTBTMHpueGZYTzYxVFlaREhMUFZvVnZvNUxjbC1IeVB0UHVPWg?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "domain": "news.google.com",
+    "discovered_at": "2026-02-24",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Propositions générales « Indre 2030 » et chiffres d’impact hypothétiques ; l’évocation des 5 400 MW est couverte plus directement par les documents de la ligne."
+  },
+  {
+    "xlsx_row": 32,
+    "resource_id": "3ba6d839-a039-47d0-84a9-6d5e6a2170be",
+    "title": "L’Indre vieillit, mais ne perd pas espoir dans l’avenir",
+    "url_from_file": "https://www.magcentre.fr/356820-lindre-vieillit-mais-ne-perd-pas-espoir-dans-lavenir/",
+    "domain": "magcentre.fr",
+    "discovered_at": "2025-12-22",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Programme transversal Indre 2030 ; chiffres anciens sur le foncier d’Ozans en divergence avec 195 ha, évités car non nécessaires au dossier technique."
+  },
+  {
+    "xlsx_row": 33,
+    "resource_id": "54beb95c-3f7f-4edb-97c1-e558aac87833",
+    "title": "L’hôpital de jour de la clinique psychiatrique du Haut-Cluzeau déménage à Châteauroux et double sa capacité",
+    "url_from_file": "https://www.lanouvellerepublique.fr/chateauroux/l-hopital-de-jour-de-la-clinique-psychiatrique-du-haut-cluzeau-demenage-a-chateauroux-et-double-sa-capacite-1759942533",
+    "domain": "lanouvellerepublique.fr",
+    "discovered_at": "2025-10-08",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Déménagement d’une clinique psychiatrique sans relation établie avec l’interconnexion RTE."
+  },
+  {
+    "xlsx_row": 34,
+    "resource_id": "5c0ac4fe-5f3b-407f-b0af-8327d0f1bb0c",
+    "title": "Châteauroux : après plus de 20 ans de conflit, un accord signé entre la ville et la CGT et CFDT concernant leurs locaux",
+    "url_from_file": "https://www.francebleu.fr/infos/economie-social/chateauroux-apres-plus-de-20-ans-de-conflit-un-accord-signe-entre-la-ville-et-la-cgt-et-cfdt-concernant-leurs-locaux-5942527",
+    "domain": "francebleu.fr",
+    "discovered_at": "2025-10-05",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Ancien conflit social et immobilier de syndicats de Châteauroux sans relation avec la ligne."
+  },
+  {
+    "xlsx_row": 35,
+    "resource_id": "4de7d0fc-332f-4e05-a7ef-71d51cd632a7",
+    "title": "RTE débute les consultations avant les travaux de doublement de la ligne Eguzon-Marmagne",
+    "url_from_file": "https://www.francebleu.fr/infos/economie-social/rte-debute-les-consultations-avant-les-travaux-de-doublement-de-la-ligne-eguzon-marmagne-9819045",
+    "domain": "francebleu.fr",
+    "discovered_at": "2025-05-01",
+    "decision": "used_as_evidence",
+    "source_id": "source_0006",
+    "evidence_ids": [
+      "evidence_0013",
+      "evidence_0014"
+    ],
+    "reason": "Exploité pour un ou plusieurs faits, rôles, liens ou positions explicitement documentés."
+  },
+  {
+    "xlsx_row": 36,
+    "resource_id": "132a34eb-ecf9-40d0-9c7b-7a4ef39b7c46",
+    "title": "Fabriquer des armes, la solution pour les sous-traitants de l'industrie automobile en pleine crise",
+    "url_from_file": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/eure-et-loir/fabriquer-des-armes-la-solution-pour-les-sous-traitants-de-l-industrie-automobile-en-pleine-crise-3121222.html",
+    "domain": "france3-regions.francetvinfo.fr",
+    "discovered_at": "2025-03-13",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Diversification automobile vers la défense : contexte industriel général sans lien matériel ou relation d’acteur avec la ligne établi dans le texte."
+  },
+  {
+    "xlsx_row": 37,
+    "resource_id": "6ed09ac3-cc1b-40c3-a248-264d4f0720c0",
+    "title": "Éoliennes : le maire en appelle au président de la République pour « sauver Levroux » - La Nouvelle République",
+    "url_from_file": "https://www.lanouvellerepublique.fr/dossiers/l'eolien-en-region-centre-et-dans-le-poitou/indre/eoliennes-le-maire-en-appelle-au-president-de-la-republique-pour-sauver-levroux?queryId%5Bquery1%5D=57cd2206459a452f008b4594&queryId%5Bquery2%5D=57d2960a459a4539008b4612&page=4&pageId=5912c54a479a453c008b48fc",
+    "domain": "lanouvellerepublique.fr",
+    "discovered_at": "2024-10-01",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Page d’authentification du média, sans contenu journalistique exploitable sur Éguzon–Marmagne."
+  },
+  {
+    "xlsx_row": 38,
+    "resource_id": "49c7b286-bf59-4208-bb9b-1115f1316f92",
+    "title": "Au Poinçonnet, le quartier Les Épinettes, prévu pour fin 2024, pose sa première pierre",
+    "url_from_file": "https://www.lanouvellerepublique.fr/indre/commune/le-poinconnet/au-poinconnet-le-quartier-les-epinettes-prevu-pour-fin-2024-pose-sa-premiere-pierre",
+    "domain": "lanouvellerepublique.fr",
+    "discovered_at": "2023-07-19",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Projet immobilier ancien au Poinçonnet, sans relation au réseau électrique documentée."
+  }
+]

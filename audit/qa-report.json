@@ -1,0 +1,23 @@
+{
+  "cards_initial": 46,
+  "card_count": "46 acteurs affichés sur 46",
+  "card_popup": true,
+  "card_proofs": 1,
+  "card_source_links": 1,
+  "griefs": 8,
+  "grief_proofs": 27,
+  "vigilances": 12,
+  "source_links": 25,
+  "cards_search": 8,
+  "neutral_filter_count": 3,
+  "cards_errors": [],
+  "network_nodes": 72,
+  "network_links": 90,
+  "network_count": "72 nœuds affichés sur 72",
+  "network_panel": "right active",
+  "network_proofs": 1,
+  "network_proof_links": 1,
+  "network_search_count": "17 nœuds affichés sur 72",
+  "network_errors": [],
+  "status": "PASS"
+}

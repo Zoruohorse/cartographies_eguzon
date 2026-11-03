@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "counts": {
+    "actors": 72,
+    "claims": 6,
+    "evidence": 54,
+    "relations": 90,
+    "sources": 25,
+    "griefs": 8,
+    "vigilance": 12,
+    "resources_examined": 37
+  },
+  "sources_aggregator_only": 3,
+  "positions_unqualified": 40,
+  "errors": [],
+  "warnings": [
+    "URL agrégateur à qualifier: source_0003",
+    "URL agrégateur à qualifier: source_0008",
+    "URL agrégateur à qualifier: source_0024"
+  ]
+}

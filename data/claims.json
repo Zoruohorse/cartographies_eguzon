@@ -1,0 +1,107 @@
+[
+  {
+    "id": "claim_0001",
+    "subject_id": "actor_0001",
+    "project_id": "project_eguzon_marmagne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Porte et défend le renforcement du réseau à 400 kV Éguzon–Marmagne au titre des besoins de transit et d’électrification ; examine plusieurs fuseaux.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001",
+      "evidence_0013",
+      "evidence_0011"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "claim_0002",
+    "subject_id": "actor_0002",
+    "project_id": "project_eguzon_marmagne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Responsable RTE présentant les justifications techniques de la nouvelle ligne et la démarche de concertation des territoires ; soutien de fonction au projet porté.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0013",
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "claim_0003",
+    "subject_id": "actor_0012",
+    "project_id": "project_eguzon_marmagne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Ne rejette pas le renforcement mais privilégie un passage sur le tracé 225 kV existant pour préserver les finances de Chouday, les paysages et l’environnement ; position conditionnelle sur le fuseau.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "claim_0004",
+    "subject_id": "actor_0020",
+    "project_id": "project_eguzon_marmagne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défend la nécessité du renforcement du réseau national évoqué par RTE ; son soutien économique au campus Google est un sujet distinct.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0031"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "claim_0005",
+    "subject_id": "actor_0042",
+    "project_id": "project_eguzon_marmagne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "S’interroge sur les bénéficiaires de la ligne Éguzon–Marmagne et souhaite que le renforcement du réseau bénéficie aussi aux autres entreprises ; aucune demande d’abandon de la ligne n’est attestée.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  },
+  {
+    "id": "claim_0006",
+    "subject_id": "actor_0026",
+    "project_id": "project_eguzon_marmagne",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Soutient la finalité de décarbonation industrielle du renforcement RTE, tout en craignant que les besoins du campus Google monopolisent les nouvelles capacités ; réserve sur l’allocation, pas opposition à la ligne.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0037"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-11-03"
+  }
+]
